@@ -1,31 +1,62 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Sternwarte-St-Ottilien-e-V # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
+
+assignees: # Users to assign downtime issues (optional)
+  - leitmori
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://sternwarte-ottilien.de
+  - name: Rocket.Chat
+    url: $CHAT
+  - name: Nextcloud
+    url: $NEXTCLOUD
+    maxRedirects: 10
+  - name: AllSky
+    url: $ALLSKY
+  - name: Wetter
+    url: $WETTER
+  - name: Inventarverwaltung
+    url: $INVENTAR
+  - name: Vereinsverwaltung
+    url: $VEREIN
+  - name: Tickets
+    url: $TICKETS
+  - name: Wiki
+    url: $WIKI
+  - name: Newsletter
+    url: $NEWSLETTER
+  - name: Webmail
+    url: $WEBMAIL
+  - name: SMTP
+    check: "tcp-ping"
+    url: $SMTP
+    port: 25
+  - name: DNS (Primary Master)
+    check: "tcp-ping"
+    url: $PRIMARY_NS
+    port: 53
+  - name: DNS (he.net)
+    check: "tcp-ping"
+    url: $HE_NS
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.sternwarte-ottilien.de
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/Sternwarte-St-Ottilien-e-V/status/master/assets/logo.svg
+  favicon: https://raw.githubusercontent.com/Sternwarte-St-Ottilien-e-V/status/master/assets/favicon.png
+  faviconSvg: https://raw.githubusercontent.com/Sternwarte-St-Ottilien-e-V/status/master/assets/logo.svg
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+  name: Sternwarte St. Ottilien
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Links
+      href: https://sternwarte.space
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
