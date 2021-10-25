@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "2.78%",
-    "uptimeDay": "2.78%",
-    "uptimeWeek": "2.78%",
-    "uptimeMonth": "2.78%",
-    "uptimeYear": "2.78%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 468,
     "timeDay": 468,
     "timeWeek": 468,
     "timeMonth": 468,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2021-10-25": 1
+      "2021-10-25": 636
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "inventarverwaltung",
     "status": "down",
-    "uptime": "3.04%",
-    "uptimeDay": "3.04%",
-    "uptimeWeek": "3.04%",
-    "uptimeMonth": "3.04%",
-    "uptimeYear": "3.04%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 460,
     "timeDay": 460,
     "timeWeek": 460,
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2021-10-25": 1
+      "2021-10-25": 636
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vereinsverwaltung",
     "status": "down",
-    "uptime": "4.88%",
-    "uptimeDay": "4.88%",
-    "uptimeWeek": "4.88%",
-    "uptimeMonth": "4.88%",
-    "uptimeYear": "4.88%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 474,
     "timeDay": 474,
     "timeWeek": 474,
     "timeMonth": 474,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2021-10-25": 1
+      "2021-10-25": 636
     }
   },
   {
@@ -155,18 +155,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wiki",
     "status": "down",
-    "uptime": "0.46%",
-    "uptimeDay": "0.46%",
-    "uptimeWeek": "0.46%",
-    "uptimeMonth": "0.46%",
-    "uptimeYear": "0.46%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 480,
     "timeDay": 480,
     "timeWeek": 480,
     "timeMonth": 480,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2021-10-25": 1
+      "2021-10-25": 636
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "$NEWSLETTER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "newsletter",
-    "status": "down",
-    "uptime": "6.28%",
-    "uptimeDay": "6.28%",
-    "uptimeWeek": "6.28%",
-    "uptimeMonth": "6.28%",
-    "uptimeYear": "6.28%",
-    "time": 482,
-    "timeDay": 482,
-    "timeWeek": 482,
-    "timeMonth": 482,
-    "timeYear": 482,
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 515,
+    "timeDay": 515,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {
-      "2021-10-25": 1
+      "2021-10-25": 636
     }
   },
   {
