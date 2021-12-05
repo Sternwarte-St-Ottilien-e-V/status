@@ -4,10 +4,10 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://favicons.githubusercontent.com/sternwarte-ottilien.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 571,
@@ -15,7 +15,9 @@
     "timeWeek": 573,
     "timeMonth": 568,
     "timeYear": 571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 1
+    }
   },
   {
     "name": "Rocket.Chat",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rocket-chat",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.94%",
     "time": 943,
     "timeDay": 667,
     "timeWeek": 898,
     "timeMonth": 921,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2021-12-05": 0,
+      "2021-12-05": 13,
       "2021-11-03": 21
     }
   },
@@ -43,10 +45,10 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "96.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.98%",
     "time": 2300,
@@ -55,6 +57,7 @@
     "timeMonth": 2314,
     "timeYear": 2300,
     "dailyMinutesDown": {
+      "2021-12-05": 1,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
@@ -64,10 +67,10 @@
     "url": "$ALLSKY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "all-sky",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
@@ -75,17 +78,19 @@
     "timeWeek": 436,
     "timeMonth": 445,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 1
+    }
   },
   {
     "name": "Wetter",
     "url": "$WETTER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wetter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 435,
@@ -93,17 +98,19 @@
     "timeWeek": 433,
     "timeMonth": 432,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 1
+    }
   },
   {
     "name": "Inventarverwaltung",
     "url": "$INVENTAR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "inventarverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "96.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.98%",
     "time": 1064,
@@ -112,6 +119,7 @@
     "timeMonth": 1086,
     "timeYear": 1064,
     "dailyMinutesDown": {
+      "2021-12-05": 1,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
@@ -121,9 +129,9 @@
     "url": "$VEREIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vereinsverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "97.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.53%",
@@ -133,6 +141,7 @@
     "timeMonth": 866,
     "timeYear": 873,
     "dailyMinutesDown": {
+      "2021-12-05": 0,
       "2021-10-26": 525,
       "2021-10-25": 934
     }
@@ -160,9 +169,9 @@
     "url": "$WIKI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "96.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.98%",
@@ -172,6 +181,7 @@
     "timeMonth": 829,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2021-12-05": 0,
       "2021-10-26": 853,
       "2021-10-25": 934
     }
@@ -181,18 +191,19 @@
     "url": "$NEWSLETTER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
-    "time": 535,
-    "timeDay": 486,
-    "timeWeek": 519,
-    "timeMonth": 510,
-    "timeYear": 535,
+    "time": 699,
+    "timeDay": 4213,
+    "timeWeek": 1446,
+    "timeMonth": 742,
+    "timeYear": 699,
     "dailyMinutesDown": {
+      "2021-12-05": 0,
       "2021-10-25": 636
     }
   },
