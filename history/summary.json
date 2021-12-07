@@ -142,19 +142,19 @@
     "url": "$TICKETS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tickets",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1065,
-    "timeDay": 3485,
-    "timeWeek": 1578,
-    "timeMonth": 1100,
-    "timeYear": 1065,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1059,
+    "timeDay": 2585,
+    "timeWeek": 1490,
+    "timeMonth": 1090,
+    "timeYear": 1059,
     "dailyMinutesDown": {
-      "2021-12-07": 0
+      "2021-12-07": 12
     }
   },
   {
