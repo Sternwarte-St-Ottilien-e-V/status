@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 949,
-    "timeDay": 914,
+    "timeDay": 928,
     "timeWeek": 929,
     "timeMonth": 960,
     "timeYear": 949,
@@ -51,7 +51,7 @@
     "uptimeYear": "98.29%",
     "time": 2334,
     "timeDay": 2377,
-    "timeWeek": 2425,
+    "timeWeek": 2422,
     "timeMonth": 2384,
     "timeYear": 2334,
     "dailyMinutesDown": {
@@ -64,19 +64,19 @@
     "url": "$ALLSKY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "all-sky",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 548,
-    "timeWeek": 453,
+    "time": 447,
+    "timeDay": 488,
+    "timeWeek": 449,
     "timeMonth": 451,
-    "timeYear": 448,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2022-01-05": 0
+      "2022-01-05": 3
     }
   },
   {
