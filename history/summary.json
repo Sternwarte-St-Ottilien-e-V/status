@@ -43,18 +43,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.68%",
+    "uptimeYear": "98.69%",
     "time": 2346,
     "timeDay": 2581,
     "timeWeek": 2323,
     "timeMonth": 2407,
     "timeYear": 2346,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
@@ -64,9 +65,9 @@
     "url": "$ALLSKY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "all-sky",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,16 +76,18 @@
     "timeWeek": 463,
     "timeMonth": 451,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "Wetter",
     "url": "$WETTER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wetter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,25 +96,28 @@
     "timeWeek": 450,
     "timeMonth": 445,
     "timeYear": 440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "Inventarverwaltung",
     "url": "$INVENTAR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "inventarverwaltung",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.68%",
+    "uptimeYear": "98.69%",
     "time": 1237,
     "timeDay": 1089,
     "timeWeek": 1141,
     "timeMonth": 1533,
     "timeYear": 1237,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
@@ -121,18 +127,19 @@
     "url": "$VEREIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vereinsverwaltung",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.93%",
     "time": 909,
     "timeDay": 953,
     "timeWeek": 889,
     "timeMonth": 968,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2021-10-26": 525,
       "2021-10-25": 934
     }
@@ -149,7 +156,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 966,
-    "timeDay": 1368,
+    "timeDay": 732,
     "timeWeek": 973,
     "timeMonth": 886,
     "timeYear": 966,
@@ -160,18 +167,19 @@
     "url": "$WIKI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.68%",
+    "uptimeYear": "98.69%",
     "time": 1127,
     "timeDay": 983,
     "timeWeek": 943,
     "timeMonth": 1677,
     "timeYear": 1127,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2021-10-26": 853,
       "2021-10-25": 934
     }
@@ -181,18 +189,19 @@
     "url": "$NEWSLETTER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "newsletter",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 659,
     "timeDay": 564,
     "timeWeek": 549,
     "timeMonth": 699,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2022-01-14": 21,
       "2021-10-25": 636
     }
@@ -202,9 +211,9 @@
     "url": "$WEBMAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,7 +222,9 @@
     "timeWeek": 599,
     "timeMonth": 595,
     "timeYear": 561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "SMTP",
