@@ -6,37 +6,35 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
     "timeDay": 547,
     "timeWeek": 642,
     "timeMonth": 609,
     "timeYear": 600,
-    "dailyMinutesDown": {
-      "2022-01-29": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rocket.Chat",
     "url": "$CHAT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rocket-chat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 952,
-    "timeDay": 679,
-    "timeWeek": 923,
-    "timeMonth": 955,
+    "timeDay": 754,
+    "timeWeek": 921,
+    "timeMonth": 953,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2022-01-29": 19,
+      "2022-01-29": 24,
       "2021-12-05": 15,
       "2021-11-03": 21
     }
@@ -48,9 +46,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 2379,
     "timeDay": 3900,
@@ -58,7 +56,6 @@
     "timeMonth": 2505,
     "timeYear": 2379,
     "dailyMinutesDown": {
-      "2022-01-29": 2,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
@@ -70,8 +67,8 @@
     "slug": "all-sky",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
@@ -79,9 +76,7 @@
     "timeWeek": 456,
     "timeMonth": 450,
     "timeYear": 448,
-    "dailyMinutesDown": {
-      "2022-01-29": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wetter",
@@ -90,8 +85,8 @@
     "slug": "wetter",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 440,
@@ -99,9 +94,7 @@
     "timeWeek": 440,
     "timeMonth": 443,
     "timeYear": 440,
-    "dailyMinutesDown": {
-      "2022-01-29": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Inventarverwaltung",
@@ -110,8 +103,8 @@
     "slug": "inventarverwaltung",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 1387,
@@ -120,7 +113,6 @@
     "timeMonth": 1975,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2022-01-29": 2,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
@@ -132,8 +124,8 @@
     "slug": "vereinsverwaltung",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
     "time": 925,
@@ -142,7 +134,6 @@
     "timeMonth": 1013,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2022-01-29": 2,
       "2021-10-26": 525,
       "2021-10-25": 934
     }
@@ -172,8 +163,8 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 1152,
@@ -182,7 +173,6 @@
     "timeMonth": 1734,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2022-01-29": 2,
       "2021-10-26": 853,
       "2021-10-25": 934
     }
@@ -193,18 +183,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "newsletter",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptime": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 656,
     "timeDay": 608,
     "timeWeek": 562,
     "timeMonth": 696,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-01-29": 2,
       "2022-01-14": 21,
       "2021-10-25": 636
     }
@@ -216,8 +205,8 @@
     "slug": "webmail",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 565,
@@ -225,9 +214,7 @@
     "timeWeek": 610,
     "timeMonth": 603,
     "timeYear": 565,
-    "dailyMinutesDown": {
-      "2022-01-29": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMTP",
