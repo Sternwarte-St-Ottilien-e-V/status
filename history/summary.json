@@ -101,19 +101,19 @@
     "url": "$INVENTAR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "inventarverwaltung",
-    "status": "down",
+    "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.91%",
-    "time": 1390,
-    "timeDay": 1267,
-    "timeWeek": 1457,
-    "timeMonth": 1706,
-    "timeYear": 1390,
+    "time": 1389,
+    "timeDay": 1227,
+    "timeWeek": 1430,
+    "timeMonth": 1708,
+    "timeYear": 1389,
     "dailyMinutesDown": {
-      "2022-02-15": 0,
+      "2022-02-15": 3,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
@@ -186,7 +186,7 @@
     "status": "up",
     "uptime": "98.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.71%",
+    "uptimeWeek": "85.68%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "98.73%",
     "time": 645,
@@ -195,7 +195,7 @@
     "timeMonth": 573,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2022-02-15": 1381,
+      "2022-02-15": 1384,
       "2022-02-14": 59,
       "2021-10-25": 636
     }
@@ -212,8 +212,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 603,
-    "timeDay": 641,
-    "timeWeek": 764,
+    "timeDay": 612,
+    "timeWeek": 781,
     "timeMonth": 704,
     "timeYear": 603,
     "dailyMinutesDown": {}
