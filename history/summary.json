@@ -122,18 +122,19 @@
     "url": "$VEREIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vereinsverwaltung",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 921,
     "timeDay": 835,
     "timeWeek": 799,
     "timeMonth": 866,
     "timeYear": 921,
     "dailyMinutesDown": {
+      "2022-03-03": 0,
       "2021-10-26": 525,
       "2021-10-25": 934
     }
