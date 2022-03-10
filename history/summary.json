@@ -24,9 +24,9 @@
     "slug": "rocket-chat",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 949,
     "timeDay": 803,
@@ -34,7 +34,6 @@
     "timeMonth": 929,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2022-03-10": 3,
       "2022-01-29": 24,
       "2021-12-05": 15,
       "2021-11-03": 21
@@ -84,9 +83,9 @@
     "url": "$WETTER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wetter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +94,9 @@
     "timeWeek": 431,
     "timeMonth": 438,
     "timeYear": 440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-10": 0
+    }
   },
   {
     "name": "Inventarverwaltung",
@@ -124,11 +125,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vereinsverwaltung",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 914,
     "timeDay": 741,
     "timeWeek": 796,
