@@ -22,9 +22,9 @@
     "url": "$CHAT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -34,6 +34,7 @@
     "timeMonth": 938,
     "timeYear": 950,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2022-01-29": 24,
       "2021-12-05": 15,
       "2021-11-03": 21
@@ -44,9 +45,9 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
@@ -56,6 +57,7 @@
     "timeMonth": 2387,
     "timeYear": 2382,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
@@ -65,9 +67,9 @@
     "url": "$ALLSKY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "all-sky",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +78,9 @@
     "timeWeek": 437,
     "timeMonth": 439,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   },
   {
     "name": "Wetter",
