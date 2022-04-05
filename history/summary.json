@@ -4,19 +4,19 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://favicons.githubusercontent.com/sternwarte-ottilien.de",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 715,
-    "timeDay": 799,
-    "timeWeek": 832,
-    "timeMonth": 830,
+    "timeDay": 797,
+    "timeWeek": 828,
+    "timeMonth": 829,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 3
     }
   },
   {
