@@ -83,19 +83,19 @@
     "url": "$WETTER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wetter",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 440,
-    "timeDay": 443,
-    "timeWeek": 443,
-    "timeMonth": 437,
+    "timeDay": 456,
+    "timeWeek": 447,
+    "timeMonth": 438,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 2
     }
   },
   {
