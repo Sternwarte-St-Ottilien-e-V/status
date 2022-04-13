@@ -4,18 +4,20 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://favicons.githubusercontent.com/sternwarte-ottilien.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 722,
     "timeDay": 885,
-    "timeWeek": 850,
+    "timeWeek": 842,
     "timeMonth": 836,
     "timeYear": 722,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Rocket.Chat",
@@ -30,7 +32,7 @@
     "uptimeYear": "99.98%",
     "time": 947,
     "timeDay": 1005,
-    "timeWeek": 955,
+    "timeWeek": 944,
     "timeMonth": 934,
     "timeYear": 947,
     "dailyMinutesDown": {
@@ -52,7 +54,7 @@
     "uptimeYear": "99.25%",
     "time": 2378,
     "timeDay": 2299,
-    "timeWeek": 2089,
+    "timeWeek": 2028,
     "timeMonth": 2361,
     "timeYear": 2378,
     "dailyMinutesDown": {
@@ -74,7 +76,7 @@
     "uptimeYear": "100.00%",
     "time": 445,
     "timeDay": 452,
-    "timeWeek": 428,
+    "timeWeek": 420,
     "timeMonth": 436,
     "timeYear": 445,
     "dailyMinutesDown": {}
@@ -92,7 +94,7 @@
     "uptimeYear": "100.00%",
     "time": 439,
     "timeDay": 457,
-    "timeWeek": 430,
+    "timeWeek": 419,
     "timeMonth": 435,
     "timeYear": 439,
     "dailyMinutesDown": {}
@@ -124,11 +126,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vereinsverwaltung",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 891,
     "timeDay": 823,
     "timeWeek": 770,
