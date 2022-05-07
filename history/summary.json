@@ -4,18 +4,20 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://favicons.githubusercontent.com/sternwarte-ottilien.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 787,
     "timeDay": 767,
-    "timeWeek": 853,
+    "timeWeek": 852,
     "timeMonth": 1121,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   },
   {
     "name": "Rocket.Chat",
@@ -30,7 +32,7 @@
     "uptimeYear": "99.98%",
     "time": 971,
     "timeDay": 925,
-    "timeWeek": 957,
+    "timeWeek": 949,
     "timeMonth": 1092,
     "timeYear": 971,
     "dailyMinutesDown": {
@@ -52,7 +54,7 @@
     "uptimeYear": "99.36%",
     "time": 2418,
     "timeDay": 2317,
-    "timeWeek": 2489,
+    "timeWeek": 2434,
     "timeMonth": 2567,
     "timeYear": 2418,
     "dailyMinutesDown": {
@@ -73,7 +75,7 @@
     "uptimeYear": "100.00%",
     "time": 448,
     "timeDay": 407,
-    "timeWeek": 464,
+    "timeWeek": 463,
     "timeMonth": 461,
     "timeYear": 448,
     "dailyMinutesDown": {}
@@ -91,7 +93,7 @@
     "uptimeYear": "100.00%",
     "time": 440,
     "timeDay": 422,
-    "timeWeek": 446,
+    "timeWeek": 444,
     "timeMonth": 440,
     "timeYear": 440,
     "dailyMinutesDown": {}
@@ -109,7 +111,7 @@
     "uptimeYear": "99.36%",
     "time": 1351,
     "timeDay": 1051,
-    "timeWeek": 1265,
+    "timeWeek": 1173,
     "timeMonth": 1523,
     "timeYear": 1351,
     "dailyMinutesDown": {
@@ -130,7 +132,7 @@
     "uptimeYear": "99.48%",
     "time": 927,
     "timeDay": 857,
-    "timeWeek": 929,
+    "timeWeek": 887,
     "timeMonth": 1100,
     "timeYear": 927,
     "dailyMinutesDown": {
@@ -150,7 +152,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 1155,
-    "timeDay": 2553,
+    "timeDay": 982,
     "timeWeek": 1603,
     "timeMonth": 2371,
     "timeYear": 1155,
@@ -171,7 +173,7 @@
     "uptimeYear": "99.36%",
     "time": 1353,
     "timeDay": 947,
-    "timeWeek": 3837,
+    "timeWeek": 1099,
     "timeMonth": 2727,
     "timeYear": 1353,
     "dailyMinutesDown": {
