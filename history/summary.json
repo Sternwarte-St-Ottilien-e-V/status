@@ -4,10 +4,10 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://favicons.githubusercontent.com/sternwarte-ottilien.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 789,
@@ -15,17 +15,19 @@
     "timeWeek": 850,
     "timeMonth": 1128,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-08": 1
+    }
   },
   {
     "name": "Rocket.Chat",
     "url": "$CHAT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 971,
@@ -34,6 +36,7 @@
     "timeMonth": 1096,
     "timeYear": 971,
     "dailyMinutesDown": {
+      "2022-05-08": 1,
       "2022-01-29": 24,
       "2021-12-05": 15,
       "2021-11-03": 21
@@ -44,10 +47,10 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 2418,
@@ -56,6 +59,7 @@
     "timeMonth": 2575,
     "timeYear": 2418,
     "dailyMinutesDown": {
+      "2022-05-08": 1,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
@@ -204,9 +208,9 @@
     "url": "$WEBMAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,7 +219,9 @@
     "timeWeek": 590,
     "timeMonth": 651,
     "timeYear": 590,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-08": 0
+    }
   },
   {
     "name": "SMTP",
