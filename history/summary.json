@@ -101,9 +101,9 @@
     "url": "$INVENTAR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "inventarverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
@@ -113,6 +113,7 @@
     "timeMonth": 1581,
     "timeYear": 1350,
     "dailyMinutesDown": {
+      "2022-05-14": 0,
       "2021-10-26": 852,
       "2021-10-25": 934
     }
