@@ -4,18 +4,20 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://favicons.githubusercontent.com/sternwarte-ottilien.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 789,
     "timeDay": 637,
     "timeWeek": 824,
-    "timeMonth": 797,
+    "timeMonth": 798,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-04": 0
+    }
   },
   {
     "name": "Rocket.Chat",
@@ -31,7 +33,7 @@
     "time": 965,
     "timeDay": 723,
     "timeWeek": 863,
-    "timeMonth": 921,
+    "timeMonth": 923,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2022-01-29": 24,
@@ -53,7 +55,7 @@
     "time": 2394,
     "timeDay": 1924,
     "timeWeek": 2219,
-    "timeMonth": 2246,
+    "timeMonth": 2230,
     "timeYear": 2394,
     "dailyMinutesDown": {
       "2021-10-26": 852,
@@ -74,7 +76,7 @@
     "time": 447,
     "timeDay": 384,
     "timeWeek": 442,
-    "timeMonth": 442,
+    "timeMonth": 443,
     "timeYear": 447,
     "dailyMinutesDown": {}
   },
@@ -110,7 +112,7 @@
     "time": 1331,
     "timeDay": 2010,
     "timeWeek": 1432,
-    "timeMonth": 1190,
+    "timeMonth": 1172,
     "timeYear": 1331,
     "dailyMinutesDown": {
       "2021-10-26": 852,
@@ -131,7 +133,7 @@
     "time": 912,
     "timeDay": 752,
     "timeWeek": 818,
-    "timeMonth": 820,
+    "timeMonth": 804,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2021-10-26": 525,
@@ -172,7 +174,7 @@
     "time": 1298,
     "timeDay": 857,
     "timeWeek": 935,
-    "timeMonth": 926,
+    "timeMonth": 882,
     "timeYear": 1298,
     "dailyMinutesDown": {
       "2021-10-26": 853,
@@ -193,7 +195,7 @@
     "time": 627,
     "timeDay": 441,
     "timeWeek": 509,
-    "timeMonth": 512,
+    "timeMonth": 507,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2021-10-25": 636
@@ -213,7 +215,7 @@
     "time": 585,
     "timeDay": 352,
     "timeWeek": 556,
-    "timeMonth": 563,
+    "timeMonth": 559,
     "timeYear": 585,
     "dailyMinutesDown": {}
   },
