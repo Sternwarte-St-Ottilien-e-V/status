@@ -4,9 +4,9 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://favicons.githubusercontent.com/sternwarte-ottilien.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 924,
     "timeMonth": 847,
     "timeYear": 796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "Rocket.Chat",
@@ -45,11 +47,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.16%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 2379,
     "timeDay": 2064,
     "timeWeek": 2481,
