@@ -32,18 +32,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mattermost",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 500,
     "timeDay": 565,
     "timeWeek": 499,
     "timeMonth": 500,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2022-08-09": 6,
       "2022-07-12": 126,
       "2022-07-11": 12
     }
@@ -99,10 +98,10 @@
     "url": "$WETTER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wetter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 437,
@@ -111,6 +110,7 @@
     "timeMonth": 418,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2022-08-09": 2,
       "2022-07-12": 124,
       "2022-07-11": 11
     }
