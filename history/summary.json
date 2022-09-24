@@ -179,9 +179,9 @@
     "url": "$WIKI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
@@ -191,6 +191,7 @@
     "timeMonth": 790,
     "timeYear": 1221,
     "dailyMinutesDown": {
+      "2022-09-24": 0,
       "2022-07-12": 125,
       "2022-07-11": 11,
       "2021-10-26": 853,
@@ -202,9 +203,9 @@
     "url": "$NEWSLETTER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -214,6 +215,7 @@
     "timeMonth": 545,
     "timeYear": 605,
     "dailyMinutesDown": {
+      "2022-09-24": 0,
       "2022-07-12": 125,
       "2022-07-11": 11,
       "2021-10-25": 636
@@ -224,9 +226,9 @@
     "url": "$WEBMAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -236,6 +238,7 @@
     "timeMonth": 581,
     "timeYear": 577,
     "dailyMinutesDown": {
+      "2022-09-24": 0,
       "2022-07-12": 125,
       "2022-07-11": 11
     }
