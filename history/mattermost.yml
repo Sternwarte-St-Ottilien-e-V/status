@@ -1,7 +1,7 @@
 url: $CHAT
-status: down
-code: 502
-responseTime: 418
-lastUpdated: 2022-10-18T18:00:17.722Z
+status: up
+code: 200
+responseTime: 510
+lastUpdated: 2022-10-18T18:03:18.994Z
 startTime: Sun Jul 10 2022 15:42:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
