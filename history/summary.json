@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 813,
     "timeDay": 628,
@@ -16,7 +16,6 @@
     "timeMonth": 852,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2022-11-02": 3,
       "2022-10-06": 27,
       "2022-07-12": 123,
       "2022-07-11": 12
@@ -29,8 +28,8 @@
     "slug": "mattermost",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "98.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.25%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.79%",
     "time": 458,
@@ -39,7 +38,6 @@
     "timeMonth": 431,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2022-11-02": 3,
       "2022-10-29": 84,
       "2022-10-28": 93,
       "2022-10-06": 27,
@@ -53,10 +51,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "95.02%",
-    "uptimeMonth": "98.79%",
+    "uptime": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.05%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "99.72%",
     "time": 2423,
     "timeDay": 1790,
@@ -64,7 +62,6 @@
     "timeMonth": 2255,
     "timeYear": 2432,
     "dailyMinutesDown": {
-      "2022-11-02": 3,
       "2022-10-29": 413,
       "2022-10-28": 85,
       "2022-10-06": 27,
@@ -81,9 +78,9 @@
     "slug": "all-sky",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 447,
     "timeDay": 395,
@@ -91,7 +88,6 @@
     "timeMonth": 416,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2022-11-02": 3,
       "2022-10-06": 27,
       "2022-07-12": 124,
       "2022-07-11": 11
@@ -104,9 +100,9 @@
     "slug": "wetter",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 490,
     "timeDay": 612,
@@ -114,7 +110,6 @@
     "timeMonth": 693,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2022-11-02": 3,
       "2022-10-06": 27,
       "2022-07-12": 124,
       "2022-07-11": 11
@@ -239,8 +234,8 @@
     "slug": "webmail",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "68.87%",
-    "uptimeWeek": "93.71%",
+    "uptimeDay": "68.76%",
+    "uptimeWeek": "93.69%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.85%",
     "time": 571,
@@ -249,7 +244,7 @@
     "timeMonth": 541,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-11-02": 448,
+      "2022-11-02": 450,
       "2022-10-28": 186,
       "2022-10-06": 27,
       "2022-07-12": 125,
@@ -303,10 +298,10 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 12,
@@ -315,7 +310,7 @@
     "timeMonth": 9,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2022-11-02": 0
+      "2022-11-02": 2
     }
   }
 ]
