@@ -234,9 +234,9 @@
     "slug": "webmail",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "58.68%",
-    "uptimeWeek": "92.25%",
-    "uptimeMonth": "98.16%",
+    "uptimeDay": "58.54%",
+    "uptimeWeek": "92.23%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "99.82%",
     "time": 571,
     "timeDay": 321,
@@ -244,7 +244,7 @@
     "timeMonth": 541,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-11-03": 113,
+      "2022-11-03": 115,
       "2022-11-02": 482,
       "2022-10-28": 186,
       "2022-10-06": 27,
@@ -299,19 +299,19 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 12,
-    "timeDay": 11,
+    "timeDay": 10,
     "timeWeek": 10,
     "timeMonth": 9,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 2
     }
   }
 ]
