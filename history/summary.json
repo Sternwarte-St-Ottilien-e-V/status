@@ -14,7 +14,7 @@
     "timeDay": 665,
     "timeWeek": 760,
     "timeMonth": 852,
-    "timeYear": 819,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 123,
@@ -130,7 +130,7 @@
     "timeDay": 758,
     "timeWeek": 938,
     "timeMonth": 1588,
-    "timeYear": 1387,
+    "timeYear": 1388,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 124,
@@ -176,7 +176,7 @@
     "timeDay": 729,
     "timeWeek": 979,
     "timeMonth": 877,
-    "timeYear": 980,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2022-10-29": 397,
       "2022-10-28": 66,
@@ -198,7 +198,7 @@
     "timeDay": 493,
     "timeWeek": 1361,
     "timeMonth": 1762,
-    "timeYear": 1276,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 125,
@@ -235,8 +235,8 @@
     "status": "up",
     "uptime": "99.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.57%",
-    "uptimeMonth": "95.24%",
+    "uptimeWeek": "79.55%",
+    "uptimeMonth": "95.23%",
     "uptimeYear": "99.58%",
     "time": 571,
     "timeDay": 321,
@@ -244,7 +244,7 @@
     "timeMonth": 541,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-11-03": 1391,
+      "2022-11-03": 1393,
       "2022-11-02": 482,
       "2022-10-28": 186,
       "2022-10-06": 27,
@@ -288,7 +288,7 @@
     "timeDay": 115,
     "timeWeek": 122,
     "timeMonth": 127,
-    "timeYear": 134,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2022-07-12": 121,
       "2022-07-11": 8
@@ -299,10 +299,10 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 11,
@@ -311,7 +311,7 @@
     "timeMonth": 8,
     "timeYear": 11,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 2
     }
   }
 ]
