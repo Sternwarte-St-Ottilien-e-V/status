@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 813,
     "timeDay": 628,
-    "timeWeek": 758,
+    "timeWeek": 762,
     "timeMonth": 852,
     "timeYear": 819,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.80%",
     "time": 458,
     "timeDay": 370,
-    "timeWeek": 416,
+    "timeWeek": 421,
     "timeMonth": 431,
     "timeYear": 458,
     "dailyMinutesDown": {
@@ -58,7 +58,7 @@
     "uptimeYear": "99.72%",
     "time": 2423,
     "timeDay": 1790,
-    "timeWeek": 1847,
+    "timeWeek": 1843,
     "timeMonth": 2255,
     "timeYear": 2432,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
     "uptimeYear": "99.97%",
     "time": 447,
     "timeDay": 395,
-    "timeWeek": 413,
+    "timeWeek": 412,
     "timeMonth": 416,
     "timeYear": 447,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "99.97%",
     "time": 1377,
     "timeDay": 758,
-    "timeWeek": 942,
+    "timeWeek": 949,
     "timeMonth": 1588,
     "timeYear": 1387,
     "dailyMinutesDown": {
@@ -150,7 +150,7 @@
     "uptimeYear": "99.88%",
     "time": 900,
     "timeDay": 593,
-    "timeWeek": 980,
+    "timeWeek": 994,
     "timeMonth": 1040,
     "timeYear": 900,
     "dailyMinutesDown": {
@@ -196,7 +196,7 @@
     "uptimeYear": "99.97%",
     "time": 1265,
     "timeDay": 493,
-    "timeWeek": 1249,
+    "timeWeek": 1303,
     "timeMonth": 1762,
     "timeYear": 1276,
     "dailyMinutesDown": {
@@ -218,7 +218,7 @@
     "uptimeYear": "99.97%",
     "time": 592,
     "timeDay": 488,
-    "timeWeek": 482,
+    "timeWeek": 492,
     "timeMonth": 507,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -234,17 +234,17 @@
     "slug": "webmail",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "15.08%",
-    "uptimeWeek": "86.02%",
-    "uptimeMonth": "96.72%",
+    "uptimeDay": "14.17%",
+    "uptimeWeek": "85.89%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "99.70%",
     "time": 571,
     "timeDay": 321,
-    "timeWeek": 548,
+    "timeWeek": 549,
     "timeMonth": 541,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-11-03": 741,
+      "2022-11-03": 754,
       "2022-11-02": 482,
       "2022-10-28": 186,
       "2022-10-06": 27,
@@ -265,7 +265,7 @@
     "uptimeYear": "99.97%",
     "time": 129,
     "timeDay": 95,
-    "timeWeek": 120,
+    "timeWeek": 123,
     "timeMonth": 121,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -286,7 +286,7 @@
     "uptimeYear": "99.98%",
     "time": 134,
     "timeDay": 115,
-    "timeWeek": 120,
+    "timeWeek": 122,
     "timeMonth": 127,
     "timeYear": 134,
     "dailyMinutesDown": {
@@ -299,19 +299,19 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 12,
     "timeDay": 9,
     "timeWeek": 9,
     "timeMonth": 9,
-    "timeYear": 12,
+    "timeYear": 11,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 13
     }
   }
 ]
