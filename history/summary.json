@@ -106,7 +106,7 @@
     "uptimeYear": "99.97%",
     "time": 490,
     "timeDay": 580,
-    "timeWeek": 675,
+    "timeWeek": 577,
     "timeMonth": 693,
     "timeYear": 491,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "99.97%",
     "time": 1376,
     "timeDay": 691,
-    "timeWeek": 906,
+    "timeWeek": 857,
     "timeMonth": 1582,
     "timeYear": 1387,
     "dailyMinutesDown": {
@@ -150,7 +150,7 @@
     "uptimeYear": "99.88%",
     "time": 899,
     "timeDay": 506,
-    "timeWeek": 996,
+    "timeWeek": 968,
     "timeMonth": 1038,
     "timeYear": 899,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
     "uptimeYear": "99.90%",
     "time": 980,
     "timeDay": 494,
-    "timeWeek": 970,
+    "timeWeek": 810,
     "timeMonth": 875,
     "timeYear": 980,
     "dailyMinutesDown": {
@@ -196,7 +196,7 @@
     "uptimeYear": "99.97%",
     "time": 1263,
     "timeDay": 494,
-    "timeWeek": 1330,
+    "timeWeek": 1254,
     "timeMonth": 1751,
     "timeYear": 1275,
     "dailyMinutesDown": {
@@ -233,18 +233,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "67.59%",
-    "uptimeMonth": "92.10%",
-    "uptimeYear": "99.32%",
+    "uptimeMonth": "92.09%",
+    "uptimeYear": "99.31%",
     "time": 570,
     "timeDay": 311,
     "timeWeek": 469,
     "timeMonth": 538,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-11-04": 1324,
+      "2022-11-04": 1331,
       "2022-11-03": 1440,
       "2022-11-02": 482,
       "2022-10-28": 186,
@@ -300,11 +300,11 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 11,
     "timeDay": 10,
@@ -312,7 +312,7 @@
     "timeMonth": 9,
     "timeYear": 11,
     "dailyMinutesDown": {
-      "2022-11-04": 9
+      "2022-11-04": 0
     }
   }
 ]
