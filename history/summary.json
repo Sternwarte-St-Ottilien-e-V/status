@@ -13,7 +13,7 @@
     "time": 813,
     "timeDay": 770,
     "timeWeek": 770,
-    "timeMonth": 846,
+    "timeMonth": 848,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -59,7 +59,7 @@
     "time": 2424,
     "timeDay": 1631,
     "timeWeek": 2315,
-    "timeMonth": 2269,
+    "timeMonth": 2139,
     "timeYear": 2430,
     "dailyMinutesDown": {
       "2022-11-05": 15,
@@ -86,7 +86,7 @@
     "time": 447,
     "timeDay": 0,
     "timeWeek": 415,
-    "timeMonth": 415,
+    "timeMonth": 414,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -108,7 +108,7 @@
     "time": 490,
     "timeDay": 0,
     "timeWeek": 589,
-    "timeMonth": 693,
+    "timeMonth": 694,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -130,7 +130,7 @@
     "time": 1376,
     "timeDay": 0,
     "timeWeek": 835,
-    "timeMonth": 1592,
+    "timeMonth": 1060,
     "timeYear": 1387,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -152,7 +152,7 @@
     "time": 899,
     "timeDay": 0,
     "timeWeek": 629,
-    "timeMonth": 1039,
+    "timeMonth": 932,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2022-10-29": 414,
@@ -198,7 +198,7 @@
     "time": 1263,
     "timeDay": 0,
     "timeWeek": 611,
-    "timeMonth": 1770,
+    "timeMonth": 1450,
     "timeYear": 1276,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -220,7 +220,7 @@
     "time": 592,
     "timeDay": 0,
     "timeWeek": 453,
-    "timeMonth": 504,
+    "timeMonth": 485,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -236,16 +236,16 @@
     "status": "up",
     "uptime": "99.17%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.81%",
-    "uptimeMonth": "90.04%",
+    "uptimeWeek": "58.68%",
+    "uptimeMonth": "90.01%",
     "uptimeYear": "99.14%",
     "time": 570,
     "timeDay": 0,
     "timeWeek": 450,
-    "timeMonth": 538,
+    "timeMonth": 531,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-11-05": 790,
+      "2022-11-05": 803,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 482,
@@ -302,11 +302,11 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 11,
     "timeDay": 13,
@@ -314,7 +314,7 @@
     "timeMonth": 10,
     "timeYear": 11,
     "dailyMinutesDown": {
-      "2022-11-05": 43,
+      "2022-11-05": 38,
       "2022-11-04": 17
     }
   }
