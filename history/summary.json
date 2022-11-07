@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 746,
     "timeMonth": 855,
-    "timeYear": 822,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 123,
@@ -108,7 +108,7 @@
     "timeDay": 0,
     "timeWeek": 669,
     "timeMonth": 706,
-    "timeYear": 492,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 124,
@@ -130,7 +130,7 @@
     "timeDay": 0,
     "timeWeek": 842,
     "timeMonth": 1014,
-    "timeYear": 1388,
+    "timeYear": 1389,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 124,
@@ -176,7 +176,7 @@
     "timeDay": 0,
     "timeWeek": 837,
     "timeMonth": 880,
-    "timeYear": 980,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2022-10-29": 349,
       "2022-10-28": 66,
@@ -198,7 +198,7 @@
     "timeDay": 0,
     "timeWeek": 568,
     "timeMonth": 1416,
-    "timeYear": 1277,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 125,
@@ -220,7 +220,7 @@
     "timeDay": 0,
     "timeWeek": 1078,
     "timeMonth": 589,
-    "timeYear": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 125,
@@ -297,11 +297,11 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 12,
     "timeDay": 10,
@@ -309,7 +309,7 @@
     "timeMonth": 12,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2022-11-07": 2
+      "2022-11-07": 7
     }
   }
 ]
