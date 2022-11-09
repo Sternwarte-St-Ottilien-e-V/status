@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 813,
     "timeDay": 667,
-    "timeWeek": 713,
+    "timeWeek": 725,
     "timeMonth": 853,
     "timeYear": 823,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.81%",
     "time": 482,
     "timeDay": 302,
-    "timeWeek": 770,
+    "timeWeek": 804,
     "timeMonth": 515,
     "timeYear": 482,
     "dailyMinutesDown": {
@@ -58,7 +58,7 @@
     "uptimeYear": "99.72%",
     "time": 2428,
     "timeDay": 1618,
-    "timeWeek": 2443,
+    "timeWeek": 2499,
     "timeMonth": 2161,
     "timeYear": 2435,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeYear": "99.97%",
     "time": 491,
     "timeDay": 534,
-    "timeWeek": 641,
+    "timeWeek": 651,
     "timeMonth": 702,
     "timeYear": 493,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
     "uptimeYear": "99.91%",
     "time": 979,
     "timeDay": 570,
-    "timeWeek": 802,
+    "timeWeek": 804,
     "timeMonth": 875,
     "timeYear": 980,
     "dailyMinutesDown": {
@@ -218,7 +218,7 @@
     "uptimeYear": "99.97%",
     "time": 599,
     "timeDay": 344,
-    "timeWeek": 1055,
+    "timeWeek": 1181,
     "timeMonth": 582,
     "timeYear": 601,
     "dailyMinutesDown": {
@@ -297,19 +297,19 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 12,
     "timeDay": 8,
     "timeWeek": 12,
     "timeMonth": 12,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2022-11-09": 52,
+      "2022-11-09": 63,
       "2022-11-08": 19,
       "2022-11-07": 2
     }
