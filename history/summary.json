@@ -298,10 +298,10 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.30%",
-    "uptimeWeek": "98.63%",
+    "uptimeDay": "94.33%",
+    "uptimeWeek": "98.64%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 13,
@@ -310,7 +310,7 @@
     "timeMonth": 14,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2022-12-01": 62,
+      "2022-12-01": 61,
       "2022-11-30": 71,
       "2022-11-29": 5
     }
