@@ -53,7 +53,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "98.03%",
+    "uptimeDay": "98.14%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.70%",
@@ -300,19 +300,19 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 13,
     "timeDay": 12,
     "timeWeek": 12,
-    "timeMonth": 11,
+    "timeMonth": 10,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2023-03-14": 1
+      "2023-03-14": 2
     }
   }
 ]
