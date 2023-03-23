@@ -303,9 +303,9 @@
     "slug": "dns-he-net",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.55%",
+    "uptimeDay": "96.52%",
     "uptimeWeek": "98.20%",
-    "uptimeMonth": "99.59%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.97%",
     "time": 12,
     "timeDay": 9,
@@ -313,7 +313,7 @@
     "timeMonth": 10,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2023-03-23": 50,
+      "2023-03-23": 51,
       "2023-03-20": 75,
       "2023-03-18": 57
     }
