@@ -300,25 +300,19 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 11,
     "timeDay": 9,
     "timeWeek": 10,
     "timeMonth": 10,
     "timeYear": 11,
     "dailyMinutesDown": {
-      "2023-04-16": 8,
-      "2023-04-15": 24,
-      "2023-04-14": 16,
-      "2023-04-13": 39,
-      "2023-04-11": 4,
-      "2023-04-10": 41,
-      "2023-04-09": 25
+      "2023-04-16": 1
     }
   }
 ]
