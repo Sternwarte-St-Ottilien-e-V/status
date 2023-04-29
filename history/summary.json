@@ -61,7 +61,7 @@
     "timeDay": 2319,
     "timeWeek": 2204,
     "timeMonth": 1910,
-    "timeYear": 2381,
+    "timeYear": 2376,
     "dailyMinutesDown": {
       "2023-03-13": 66,
       "2023-01-12": 54,
@@ -89,7 +89,7 @@
     "timeDay": 504,
     "timeWeek": 438,
     "timeMonth": 384,
-    "timeYear": 453,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 124,
@@ -111,7 +111,7 @@
     "timeDay": 892,
     "timeWeek": 720,
     "timeMonth": 726,
-    "timeYear": 648,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 124,
@@ -133,7 +133,7 @@
     "timeDay": 1002,
     "timeWeek": 941,
     "timeMonth": 857,
-    "timeYear": 1224,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 124,
@@ -155,7 +155,7 @@
     "timeDay": 786,
     "timeWeek": 730,
     "timeMonth": 639,
-    "timeYear": 828,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2022-10-29": 414,
       "2022-10-28": 69,
@@ -200,7 +200,7 @@
     "timeDay": 723,
     "timeWeek": 669,
     "timeMonth": 594,
-    "timeYear": 1080,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 125,
@@ -222,7 +222,7 @@
     "timeDay": 550,
     "timeWeek": 497,
     "timeMonth": 437,
-    "timeYear": 549,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 125,
@@ -244,7 +244,7 @@
     "timeDay": 622,
     "timeWeek": 587,
     "timeMonth": 512,
-    "timeYear": 565,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2022-10-28": 186,
       "2022-10-06": 27,
@@ -299,10 +299,10 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "91.89%",
-    "uptimeWeek": "98.84%",
+    "uptimeDay": "91.93%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 11,
@@ -311,7 +311,7 @@
     "timeMonth": 10,
     "timeYear": 11,
     "dailyMinutesDown": {
-      "2023-04-29": 45,
+      "2023-04-29": 44,
       "2023-04-28": 72
     }
   }
