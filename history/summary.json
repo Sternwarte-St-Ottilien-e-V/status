@@ -111,7 +111,7 @@
     "timeDay": 658,
     "timeWeek": 745,
     "timeMonth": 720,
-    "timeYear": 649,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 124,
@@ -133,7 +133,7 @@
     "timeDay": 741,
     "timeWeek": 932,
     "timeMonth": 846,
-    "timeYear": 1192,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 124,
@@ -155,7 +155,7 @@
     "timeDay": 653,
     "timeWeek": 748,
     "timeMonth": 635,
-    "timeYear": 805,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2022-10-29": 414,
       "2022-10-28": 69,
@@ -200,7 +200,7 @@
     "timeDay": 478,
     "timeWeek": 664,
     "timeMonth": 586,
-    "timeYear": 966,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2022-10-06": 27,
       "2022-07-12": 125,
@@ -299,9 +299,9 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.80%",
+    "uptimeDay": "98.01%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
@@ -311,6 +311,7 @@
     "timeMonth": 10,
     "timeYear": 11,
     "dailyMinutesDown": {
+      "2023-04-30": 1,
       "2023-04-29": 76,
       "2023-04-28": 72
     }
