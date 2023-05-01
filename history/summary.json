@@ -301,17 +301,16 @@
     "slug": "dns-he-net",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "98.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 11,
-    "timeDay": 10,
+    "timeDay": 11,
     "timeWeek": 10,
     "timeMonth": 10,
     "timeYear": 11,
     "dailyMinutesDown": {
-      "2023-05-01": 2,
       "2023-04-29": 76,
       "2023-04-28": 72
     }
