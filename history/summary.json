@@ -4,19 +4,18 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://icons.duckduckgo.com/ip3/sternwarte-ottilien.de.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 912,
-    "timeDay": 774,
-    "timeWeek": 699,
-    "timeMonth": 658,
-    "timeYear": 905,
+    "timeDay": 710,
+    "timeWeek": 694,
+    "timeMonth": 662,
+    "timeYear": 904,
     "dailyMinutesDown": {
-      "2023-05-05": 2,
       "2022-10-06": 27,
       "2022-07-12": 123,
       "2022-07-11": 12
@@ -34,7 +33,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 503,
-    "timeDay": 521,
+    "timeDay": 753,
     "timeWeek": 443,
     "timeMonth": 411,
     "timeYear": 503,
@@ -132,7 +131,7 @@
     "uptimeYear": "99.97%",
     "time": 1259,
     "timeDay": 958,
-    "timeWeek": 882,
+    "timeWeek": 861,
     "timeMonth": 840,
     "timeYear": 1187,
     "dailyMinutesDown": {
@@ -154,7 +153,7 @@
     "uptimeYear": "99.88%",
     "time": 843,
     "timeDay": 726,
-    "timeWeek": 709,
+    "timeWeek": 697,
     "timeMonth": 647,
     "timeYear": 801,
     "dailyMinutesDown": {
@@ -199,7 +198,7 @@
     "uptimeYear": "99.97%",
     "time": 1112,
     "timeDay": 654,
-    "timeWeek": 632,
+    "timeWeek": 619,
     "timeMonth": 595,
     "timeYear": 957,
     "dailyMinutesDown": {
@@ -221,7 +220,7 @@
     "uptimeYear": "99.97%",
     "time": 546,
     "timeDay": 636,
-    "timeWeek": 530,
+    "timeWeek": 528,
     "timeMonth": 451,
     "timeYear": 522,
     "dailyMinutesDown": {
@@ -243,7 +242,7 @@
     "uptimeYear": "99.93%",
     "time": 567,
     "timeDay": 572,
-    "timeWeek": 553,
+    "timeWeek": 541,
     "timeMonth": 516,
     "timeYear": 555,
     "dailyMinutesDown": {
@@ -300,10 +299,10 @@
     "url": "$HE_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-he-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 11,
@@ -311,8 +310,6 @@
     "timeWeek": 10,
     "timeMonth": 10,
     "timeYear": 11,
-    "dailyMinutesDown": {
-      "2023-05-05": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
