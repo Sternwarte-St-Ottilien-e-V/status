@@ -37,10 +37,6 @@ sites:
     check: "tcp-ping"
     url: $PRIMARY_NS
     port: 53
-  - name: DNS (he.net)
-    check: "tcp-ping"
-    url: $HE_NS
-    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
