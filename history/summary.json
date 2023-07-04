@@ -4,18 +4,19 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://icons.duckduckgo.com/ip3/sternwarte-ottilien.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 885,
     "timeDay": 662,
     "timeWeek": 660,
-    "timeMonth": 610,
+    "timeMonth": 606,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2023-07-04": 0,
       "2022-10-06": 27,
       "2022-07-12": 123,
       "2022-07-11": 12
@@ -35,7 +36,7 @@
     "time": 485,
     "timeDay": 389,
     "timeWeek": 394,
-    "timeMonth": 368,
+    "timeMonth": 366,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2022-11-18": 3,
@@ -60,7 +61,7 @@
     "time": 2330,
     "timeDay": 1968,
     "timeWeek": 2089,
-    "timeMonth": 2000,
+    "timeMonth": 1996,
     "timeYear": 2338,
     "dailyMinutesDown": {
       "2023-03-13": 66,
@@ -86,7 +87,7 @@
     "time": 445,
     "timeDay": 377,
     "timeWeek": 401,
-    "timeMonth": 393,
+    "timeMonth": 390,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -108,7 +109,7 @@
     "time": 604,
     "timeDay": 598,
     "timeWeek": 600,
-    "timeMonth": 602,
+    "timeMonth": 600,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -130,7 +131,7 @@
     "time": 1205,
     "timeDay": 671,
     "timeWeek": 790,
-    "timeMonth": 807,
+    "timeMonth": 785,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -152,7 +153,7 @@
     "time": 814,
     "timeDay": 644,
     "timeWeek": 635,
-    "timeMonth": 633,
+    "timeMonth": 625,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2022-10-29": 414,
@@ -176,7 +177,7 @@
     "time": 906,
     "timeDay": 815,
     "timeWeek": 711,
-    "timeMonth": 763,
+    "timeMonth": 760,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2022-10-29": 349,
@@ -197,7 +198,7 @@
     "time": 1050,
     "timeDay": 624,
     "timeWeek": 632,
-    "timeMonth": 586,
+    "timeMonth": 582,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -219,7 +220,7 @@
     "time": 533,
     "timeDay": 342,
     "timeWeek": 439,
-    "timeMonth": 439,
+    "timeMonth": 437,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2022-10-06": 27,
@@ -264,7 +265,7 @@
     "time": 123,
     "timeDay": 91,
     "timeWeek": 106,
-    "timeMonth": 109,
+    "timeMonth": 108,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2022-07-12": 125,
@@ -285,7 +286,7 @@
     "time": 130,
     "timeDay": 92,
     "timeWeek": 112,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2022-07-12": 121,
