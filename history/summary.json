@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 868,
-    "timeDay": 549,
-    "timeWeek": 661,
-    "timeMonth": 712,
-    "timeYear": 854,
+    "timeDay": 711,
+    "timeWeek": 666,
+    "timeMonth": 714,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2022-10-06": 27
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 479,
-    "timeDay": 307,
-    "timeWeek": 389,
-    "timeMonth": 418,
+    "timeDay": 534,
+    "timeWeek": 406,
+    "timeMonth": 419,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2022-11-18": 3,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 2318,
-    "timeDay": 1675,
-    "timeWeek": 2035,
-    "timeMonth": 2133,
+    "timeDay": 2239,
+    "timeWeek": 2019,
+    "timeMonth": 2132,
     "timeYear": 2254,
     "dailyMinutesDown": {
       "2023-03-13": 66,
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 442,
-    "timeDay": 314,
+    "timeDay": 406,
     "timeWeek": 387,
-    "timeMonth": 413,
+    "timeMonth": 410,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2022-10-06": 27
@@ -98,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 648,
-    "timeDay": 649,
-    "timeWeek": 695,
-    "timeMonth": 1147,
-    "timeYear": 751,
+    "timeDay": 644,
+    "timeWeek": 676,
+    "timeMonth": 1145,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2022-10-06": 27
     }
@@ -117,10 +117,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1124,
-    "timeDay": 689,
-    "timeWeek": 827,
-    "timeMonth": 894,
+    "time": 1123,
+    "timeDay": 954,
+    "timeWeek": 837,
+    "timeMonth": 878,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2022-10-06": 27
@@ -138,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 797,
-    "timeDay": 525,
-    "timeWeek": 688,
-    "timeMonth": 707,
+    "timeDay": 777,
+    "timeWeek": 697,
+    "timeMonth": 706,
     "timeYear": 762,
     "dailyMinutesDown": {
       "2022-10-29": 414,
@@ -160,9 +160,9 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.88%",
     "time": 909,
-    "timeDay": 933,
-    "timeWeek": 855,
-    "timeMonth": 892,
+    "timeDay": 779,
+    "timeWeek": 853,
+    "timeMonth": 889,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2023-07-25": 27,
@@ -183,10 +183,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 898,
-    "timeDay": 520,
-    "timeWeek": 634,
-    "timeMonth": 669,
+    "time": 897,
+    "timeDay": 661,
+    "timeWeek": 628,
+    "timeMonth": 666,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2022-10-06": 27
@@ -204,9 +204,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 531,
-    "timeDay": 363,
-    "timeWeek": 460,
-    "timeMonth": 473,
+    "timeDay": 461,
+    "timeWeek": 457,
+    "timeMonth": 469,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2022-10-06": 27
@@ -223,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 555,
-    "timeDay": 319,
-    "timeWeek": 488,
-    "timeMonth": 547,
-    "timeYear": 555,
+    "time": 566,
+    "timeDay": 5564,
+    "timeWeek": 1193,
+    "timeMonth": 706,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2022-10-28": 186,
       "2022-10-06": 27
@@ -245,9 +245,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 95,
+    "timeDay": 126,
     "timeWeek": 119,
-    "timeMonth": 126,
+    "timeMonth": 125,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -263,9 +263,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 98,
+    "timeDay": 137,
     "timeWeek": 123,
-    "timeMonth": 129,
+    "timeMonth": 128,
     "timeYear": 129,
     "dailyMinutesDown": {}
   }
