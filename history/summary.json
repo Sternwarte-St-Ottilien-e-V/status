@@ -4,7 +4,7 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://icons.duckduckgo.com/ip3/sternwarte-ottilien.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "99.79%",
     "uptimeWeek": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 658,
     "timeYear": 841,
     "dailyMinutesDown": {
+      "2023-08-26": 0,
       "2023-08-25": 3,
       "2022-10-06": 27
     }
