@@ -13,7 +13,7 @@
     "time": 836,
     "timeDay": 801,
     "timeWeek": 692,
-    "timeMonth": 685,
+    "timeMonth": 691,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2023-08-25": 3,
@@ -112,9 +112,9 @@
     "url": "$INVENTAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inventarverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -124,6 +124,7 @@
     "timeMonth": 952,
     "timeYear": 1003,
     "dailyMinutesDown": {
+      "2023-09-09": 0,
       "2022-10-06": 27
     }
   },
@@ -132,9 +133,9 @@
     "url": "$VEREIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vereinsverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -144,6 +145,7 @@
     "timeMonth": 722,
     "timeYear": 756,
     "dailyMinutesDown": {
+      "2023-09-09": 0,
       "2022-10-29": 414,
       "2022-10-28": 69,
       "2022-10-06": 27
