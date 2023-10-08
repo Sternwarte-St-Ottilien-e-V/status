@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 827,
     "timeDay": 524,
-    "timeWeek": 678,
+    "timeWeek": 679,
     "timeMonth": 713,
     "timeYear": 825,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.87%",
     "time": 2290,
-    "timeDay": 2242,
+    "timeDay": 1919,
     "timeWeek": 2068,
     "timeMonth": 2098,
     "timeYear": 2189,
@@ -70,19 +70,19 @@
     "url": "$ALLSKY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "all-sky",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 391,
-    "timeWeek": 406,
-    "timeMonth": 423,
+    "time": 439,
+    "timeDay": 427,
+    "timeWeek": 421,
+    "timeMonth": 427,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-10-08": 0
+      "2023-10-08": 3
     }
   },
   {
