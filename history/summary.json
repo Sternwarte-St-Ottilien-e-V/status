@@ -53,7 +53,7 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.87%",
     "time": 2289,
-    "timeDay": 2185,
+    "timeDay": 1780,
     "timeWeek": 2097,
     "timeMonth": 2081,
     "timeYear": 2188,
@@ -106,19 +106,19 @@
     "url": "$INVENTAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inventarverwaltung",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1081,
-    "timeDay": 736,
-    "timeWeek": 874,
-    "timeMonth": 876,
+    "time": 1031,
+    "timeDay": 823,
+    "timeWeek": 879,
+    "timeMonth": 877,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2023-10-10": 0
+      "2023-10-10": 3
     }
   },
   {
