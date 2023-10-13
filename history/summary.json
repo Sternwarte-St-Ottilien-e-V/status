@@ -6,17 +6,17 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "91.07%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 826,
     "timeDay": 567,
     "timeWeek": 631,
     "timeMonth": 704,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2023-10-13": 125,
+      "2023-10-13": 129,
       "2023-08-25": 3
     }
   },
@@ -27,17 +27,17 @@
     "slug": "mattermost",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "91.08%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.94%",
     "time": 471,
-    "timeDay": 308,
+    "timeDay": 307,
     "timeWeek": 330,
-    "timeMonth": 416,
+    "timeMonth": 413,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2023-10-13": 125,
+      "2023-10-13": 128,
       "2022-11-18": 3,
       "2022-10-29": 84,
       "2022-10-28": 93
@@ -48,19 +48,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "91.11%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.84%",
     "time": 2293,
-    "timeDay": 1817,
-    "timeWeek": 2116,
-    "timeMonth": 2078,
-    "timeYear": 2187,
+    "timeDay": 2197,
+    "timeWeek": 2177,
+    "timeMonth": 2089,
+    "timeYear": 2188,
     "dailyMinutesDown": {
-      "2023-10-13": 125,
+      "2023-10-13": 128,
       "2023-09-22": 81,
       "2023-03-13": 66,
       "2023-01-12": 54,
@@ -73,19 +73,19 @@
     "url": "$ALLSKY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "all-sky",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "91.11%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
     "time": 438,
-    "timeDay": 316,
-    "timeWeek": 405,
-    "timeMonth": 425,
-    "timeYear": 432,
+    "timeDay": 411,
+    "timeWeek": 415,
+    "timeMonth": 428,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-10-13": 125
+      "2023-10-13": 128
     }
   },
   {
@@ -95,8 +95,8 @@
     "slug": "wetter",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "91.08%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
     "time": 730,
@@ -105,7 +105,7 @@
     "timeMonth": 690,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-10-13": 125
+      "2023-10-13": 128
     }
   },
   {
@@ -115,8 +115,8 @@
     "slug": "inventarverwaltung",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "91.08%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
     "time": 1032,
@@ -125,7 +125,7 @@
     "timeMonth": 885,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2023-10-13": 125
+      "2023-10-13": 128
     }
   },
   {
