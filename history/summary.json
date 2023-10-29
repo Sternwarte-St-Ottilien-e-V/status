@@ -61,7 +61,7 @@
     "status": "up",
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.89%",
+    "uptimeWeek": "72.92%",
     "uptimeMonth": "93.33%",
     "uptimeYear": "99.41%",
     "time": 2219,
@@ -148,19 +148,19 @@
     "url": "$VEREIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vereinsverwaltung",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 906,
-    "timeWeek": 798,
-    "timeMonth": 709,
+    "timeDay": 830,
+    "timeWeek": 793,
+    "timeMonth": 711,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-10-29": 0
+      "2023-10-29": 3
     }
   },
   {
