@@ -13,7 +13,7 @@
     "time": 820,
     "timeDay": 956,
     "timeWeek": 796,
-    "timeMonth": 704,
+    "timeMonth": 705,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2023-10-17": 1104,
@@ -30,9 +30,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mattermost",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.05%",
+    "uptimeWeek": "72.00%",
     "uptimeMonth": "76.49%",
     "uptimeYear": "98.04%",
     "time": 465,
@@ -66,7 +66,7 @@
     "uptimeYear": "99.41%",
     "time": 2221,
     "timeDay": 2946,
-    "timeWeek": 2331,
+    "timeWeek": 2368,
     "timeMonth": 2232,
     "timeYear": 2204,
     "dailyMinutesDown": {
@@ -148,9 +148,9 @@
     "url": "$VEREIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vereinsverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +159,9 @@
     "timeWeek": 744,
     "timeMonth": 710,
     "timeYear": 702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   },
   {
     "name": "Tickets",
