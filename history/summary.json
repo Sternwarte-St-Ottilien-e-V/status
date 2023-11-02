@@ -13,8 +13,8 @@
     "time": 820,
     "timeDay": 695,
     "timeWeek": 785,
-    "timeMonth": 700,
-    "timeYear": 813,
+    "timeMonth": 702,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2023-10-17": 1104,
       "2023-10-16": 1440,
@@ -32,14 +32,14 @@
     "status": "up",
     "uptime": "98.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.30%",
+    "uptimeWeek": "86.28%",
     "uptimeMonth": "76.49%",
     "uptimeYear": "98.04%",
     "time": 466,
     "timeDay": 412,
     "timeWeek": 470,
     "timeMonth": 390,
-    "timeYear": 470,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2023-10-27": 1323,
       "2023-10-26": 1440,
@@ -66,9 +66,9 @@
     "uptimeYear": "99.41%",
     "time": 2221,
     "timeDay": 2334,
-    "timeWeek": 2345,
+    "timeWeek": 2329,
     "timeMonth": 2232,
-    "timeYear": 2206,
+    "timeYear": 2208,
     "dailyMinutesDown": {
       "2023-10-24": 1234,
       "2023-10-23": 1440,
@@ -167,7 +167,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tickets",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -176,7 +176,7 @@
     "timeDay": 909,
     "timeWeek": 843,
     "timeMonth": 905,
-    "timeYear": 833,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2023-09-25": 114,
       "2023-07-25": 27,
@@ -207,9 +207,9 @@
     "url": "$NEWSLETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,16 +218,18 @@
     "timeWeek": 496,
     "timeMonth": 477,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 0
+    }
   },
   {
     "name": "Webmail",
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -236,7 +238,9 @@
     "timeWeek": 578,
     "timeMonth": 569,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 0
+    }
   },
   {
     "name": "SMTP",
