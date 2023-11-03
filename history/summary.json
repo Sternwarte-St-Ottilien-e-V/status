@@ -32,12 +32,12 @@
     "status": "up",
     "uptime": "98.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.59%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "76.49%",
     "uptimeYear": "98.04%",
     "time": 466,
     "timeDay": 808,
-    "timeWeek": 534,
+    "timeWeek": 548,
     "timeMonth": 401,
     "timeYear": 472,
     "dailyMinutesDown": {
@@ -66,7 +66,7 @@
     "uptimeYear": "99.41%",
     "time": 2222,
     "timeDay": 2373,
-    "timeWeek": 2361,
+    "timeWeek": 2489,
     "timeMonth": 2248,
     "timeYear": 2210,
     "dailyMinutesDown": {
@@ -189,9 +189,9 @@
     "url": "$WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,7 +200,9 @@
     "timeWeek": 769,
     "timeMonth": 736,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "Newsletter",
