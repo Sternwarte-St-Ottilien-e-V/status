@@ -68,7 +68,7 @@
     "timeDay": 1788,
     "timeWeek": 2355,
     "timeMonth": 2251,
-    "timeYear": 2204,
+    "timeYear": 2207,
     "dailyMinutesDown": {
       "2023-10-24": 1234,
       "2023-10-23": 1440,
@@ -207,9 +207,9 @@
     "url": "$NEWSLETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,16 +218,18 @@
     "timeWeek": 467,
     "timeMonth": 478,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-05": 0
+    }
   },
   {
     "name": "Webmail",
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -236,7 +238,9 @@
     "timeWeek": 566,
     "timeMonth": 570,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-05": 0
+    }
   },
   {
     "name": "SMTP",
