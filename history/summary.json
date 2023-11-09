@@ -67,7 +67,7 @@
     "time": 2220,
     "timeDay": 1891,
     "timeWeek": 2136,
-    "timeMonth": 2258,
+    "timeMonth": 2251,
     "timeYear": 2199,
     "dailyMinutesDown": {
       "2023-10-24": 1234,
@@ -225,18 +225,20 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
+    "time": 568,
     "timeDay": 550,
     "timeWeek": 736,
     "timeMonth": 631,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "SMTP",
