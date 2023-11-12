@@ -38,7 +38,7 @@
     "time": 467,
     "timeDay": 507,
     "timeWeek": 444,
-    "timeMonth": 423,
+    "timeMonth": 426,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2023-10-27": 1323,
@@ -189,27 +189,29 @@
     "url": "$WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 812,
+    "time": 810,
     "timeDay": 779,
     "timeWeek": 877,
     "timeMonth": 786,
     "timeYear": 707,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-12": 0
+    }
   },
   {
     "name": "Newsletter",
     "url": "$NEWSLETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,7 +220,9 @@
     "timeWeek": 502,
     "timeMonth": 486,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-12": 0
+    }
   },
   {
     "name": "Webmail",
