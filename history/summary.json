@@ -32,9 +32,9 @@
     "slug": "mattermost",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "95.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "98.04%",
     "time": 465,
     "timeDay": 341,
@@ -42,7 +42,6 @@
     "timeMonth": 456,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2023-11-26": 5,
       "2023-10-27": 1323,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -59,19 +58,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.41%",
     "time": 2216,
     "timeDay": 2691,
     "timeWeek": 2232,
-    "timeMonth": 2252,
+    "timeMonth": 2245,
     "timeYear": 2202,
     "dailyMinutesDown": {
-      "2023-11-26": 7,
+      "2023-11-26": 0,
       "2023-10-24": 1234,
       "2023-10-23": 1440,
       "2023-10-22": 120,
@@ -88,17 +87,16 @@
     "slug": "all-sky",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 431,
     "timeDay": 306,
     "timeWeek": 349,
     "timeMonth": 417,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-11-26": 6,
       "2023-10-13": 128
     }
   },
@@ -109,9 +107,9 @@
     "slug": "wetter",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 769,
     "timeDay": 692,
@@ -119,7 +117,6 @@
     "timeMonth": 811,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2023-11-26": 6,
       "2023-10-15": 1323,
       "2023-10-14": 1440,
       "2023-10-13": 245
@@ -132,9 +129,9 @@
     "slug": "inventarverwaltung",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 989,
     "timeDay": 1504,
@@ -142,7 +139,6 @@
     "timeMonth": 960,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2023-11-26": 5,
       "2023-10-15": 1323,
       "2023-10-14": 1440,
       "2023-10-13": 245
@@ -155,18 +151,16 @@
     "slug": "vereinsverwaltung",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 747,
     "timeDay": 946,
     "timeWeek": 748,
     "timeMonth": 717,
     "timeYear": 702,
-    "dailyMinutesDown": {
-      "2023-11-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tickets",
@@ -198,18 +192,16 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 809,
     "timeDay": 1523,
     "timeWeek": 876,
     "timeMonth": 793,
     "timeYear": 711,
-    "dailyMinutesDown": {
-      "2023-11-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Newsletter",
@@ -218,18 +210,16 @@
     "slug": "newsletter",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
     "timeDay": 526,
     "timeWeek": 462,
     "timeMonth": 484,
     "timeYear": 476,
-    "dailyMinutesDown": {
-      "2023-11-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webmail",
@@ -237,18 +227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "52.36%",
+    "uptimeWeek": "93.19%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "99.87%",
     "time": 570,
     "timeDay": 775,
     "timeWeek": 571,
     "timeMonth": 616,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2023-11-26": 10
+      "2023-11-26": 686
     }
   },
   {
@@ -257,18 +247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "52.36%",
+    "uptimeWeek": "93.19%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "99.87%",
     "time": 120,
     "timeDay": 92,
     "timeWeek": 102,
     "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2023-11-26": 10
+      "2023-11-26": 686
     }
   },
   {
@@ -277,18 +267,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-primary-master",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.86%",
+    "uptimeDay": "4.73%",
+    "uptimeWeek": "86.39%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "99.74%",
     "time": 128,
     "timeDay": 95,
     "timeWeek": 106,
     "timeMonth": 122,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-11-26": 10
+      "2023-11-26": 1372
     }
   }
 ]
