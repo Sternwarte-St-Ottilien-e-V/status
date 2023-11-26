@@ -6,8 +6,8 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "98.92%",
     "time": 823,
@@ -16,7 +16,7 @@
     "timeMonth": 873,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2023-11-26": 4,
+      "2023-11-26": 6,
       "2023-10-17": 1104,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
@@ -32,8 +32,8 @@
     "slug": "mattermost",
     "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "95.28%",
     "uptimeYear": "98.04%",
     "time": 465,
@@ -42,7 +42,7 @@
     "timeMonth": 460,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-11-26": 1,
+      "2023-11-26": 3,
       "2023-10-27": 1323,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -61,8 +61,8 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.41%",
     "time": 2213,
@@ -71,7 +71,7 @@
     "timeMonth": 2217,
     "timeYear": 2199,
     "dailyMinutesDown": {
-      "2023-11-26": 3,
+      "2023-11-26": 4,
       "2023-10-24": 1234,
       "2023-10-23": 1440,
       "2023-10-22": 120,
@@ -88,17 +88,17 @@
     "slug": "all-sky",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 431,
     "timeDay": 289,
     "timeWeek": 353,
     "timeMonth": 420,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-11-26": 2,
+      "2023-11-26": 4,
       "2023-10-13": 128
     }
   },
@@ -109,9 +109,9 @@
     "slug": "wetter",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.43%",
     "time": 769,
     "timeDay": 757,
@@ -119,7 +119,7 @@
     "timeMonth": 817,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2023-11-26": 2,
+      "2023-11-26": 3,
       "2023-10-15": 1323,
       "2023-10-14": 1440,
       "2023-10-13": 245
@@ -132,9 +132,9 @@
     "slug": "inventarverwaltung",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.43%",
     "time": 986,
     "timeDay": 810,
@@ -142,7 +142,7 @@
     "timeMonth": 926,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2023-11-26": 1,
+      "2023-11-26": 3,
       "2023-10-15": 1323,
       "2023-10-14": 1440,
       "2023-10-13": 245
@@ -155,9 +155,9 @@
     "slug": "vereinsverwaltung",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 745,
     "timeDay": 543,
@@ -165,7 +165,7 @@
     "timeMonth": 698,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2023-11-26": 1
+      "2023-11-26": 2
     }
   },
   {
@@ -198,8 +198,8 @@
     "slug": "wiki",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 806,
@@ -208,7 +208,7 @@
     "timeMonth": 747,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2023-11-26": 1
+      "2023-11-26": 2
     }
   },
   {
@@ -218,8 +218,8 @@
     "slug": "newsletter",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
@@ -228,7 +228,7 @@
     "timeMonth": 481,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2023-11-26": 1
+      "2023-11-26": 2
     }
   },
   {
@@ -238,9 +238,9 @@
     "slug": "webmail",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 568,
     "timeDay": 607,
@@ -248,7 +248,7 @@
     "timeMonth": 603,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2023-11-26": 2
+      "2023-11-26": 4
     }
   },
   {
@@ -258,9 +258,9 @@
     "slug": "smtp",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 90,
@@ -268,7 +268,7 @@
     "timeMonth": 120,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2023-11-26": 0
+      "2023-11-26": 4
     }
   },
   {
@@ -276,19 +276,19 @@
     "url": "$PRIMARY_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-primary-master",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 92,
-    "timeWeek": 107,
+    "timeDay": 95,
+    "timeWeek": 106,
     "timeMonth": 122,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-11-26": 0
+      "2023-11-26": 6
     }
   }
 ]
