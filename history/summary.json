@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 823,
     "timeDay": 516,
@@ -16,7 +16,6 @@
     "timeMonth": 863,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2023-11-26": 8,
       "2023-10-17": 1104,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
@@ -34,11 +33,11 @@
     "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.84%",
+    "uptimeMonth": "96.85%",
     "uptimeYear": "98.04%",
     "time": 465,
     "timeDay": 341,
-    "timeWeek": 360,
+    "timeWeek": 347,
     "timeMonth": 456,
     "timeYear": 461,
     "dailyMinutesDown": {
@@ -58,19 +57,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.41%",
     "time": 2216,
-    "timeDay": 2691,
-    "timeWeek": 2232,
-    "timeMonth": 2245,
-    "timeYear": 2202,
+    "timeDay": 2419,
+    "timeWeek": 2199,
+    "timeMonth": 2236,
+    "timeYear": 2201,
     "dailyMinutesDown": {
-      "2023-11-26": 0,
+      "2023-11-26": 3,
       "2023-10-24": 1234,
       "2023-10-23": 1440,
       "2023-10-22": 120,
@@ -215,7 +214,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
-    "timeDay": 526,
+    "timeDay": 477,
     "timeWeek": 462,
     "timeMonth": 484,
     "timeYear": 476,
@@ -228,17 +227,17 @@
     "slug": "webmail",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "52.36%",
-    "uptimeWeek": "93.19%",
+    "uptimeDay": "52.18%",
+    "uptimeWeek": "93.17%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.87%",
     "time": 570,
-    "timeDay": 775,
+    "timeDay": 776,
     "timeWeek": 571,
     "timeMonth": 616,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2023-11-26": 686
+      "2023-11-26": 689
     }
   },
   {
@@ -248,8 +247,8 @@
     "slug": "smtp",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "52.36%",
-    "uptimeWeek": "93.19%",
+    "uptimeDay": "52.18%",
+    "uptimeWeek": "93.17%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.87%",
     "time": 120,
@@ -258,7 +257,7 @@
     "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2023-11-26": 686
+      "2023-11-26": 689
     }
   },
   {
@@ -268,9 +267,9 @@
     "slug": "dns-primary-master",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "4.73%",
-    "uptimeWeek": "86.39%",
-    "uptimeMonth": "96.87%",
+    "uptimeDay": "4.37%",
+    "uptimeWeek": "86.34%",
+    "uptimeMonth": "96.86%",
     "uptimeYear": "99.74%",
     "time": 128,
     "timeDay": 95,
@@ -278,7 +277,7 @@
     "timeMonth": 122,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-11-26": 1372
+      "2023-11-26": 1378
     }
   }
 ]
