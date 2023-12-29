@@ -125,9 +125,9 @@
     "url": "$INVENTAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inventarverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
@@ -137,6 +137,7 @@
     "timeMonth": 928,
     "timeYear": 908,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-10-15": 1323,
       "2023-10-14": 1440,
       "2023-10-13": 245
