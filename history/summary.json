@@ -66,7 +66,7 @@
     "time": 2214,
     "timeDay": 2489,
     "timeWeek": 2349,
-    "timeMonth": 2207,
+    "timeMonth": 2210,
     "timeYear": 2183,
     "dailyMinutesDown": {
       "2023-10-24": 1234,
@@ -133,7 +133,7 @@
     "uptimeYear": "99.43%",
     "time": 1015,
     "timeDay": 1059,
-    "timeWeek": 961,
+    "timeWeek": 986,
     "timeMonth": 946,
     "timeYear": 911,
     "dailyMinutesDown": {
@@ -147,19 +147,19 @@
     "url": "$VEREIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vereinsverwaltung",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 744,
-    "timeDay": 828,
-    "timeWeek": 775,
-    "timeMonth": 700,
+    "timeDay": 737,
+    "timeWeek": 764,
+    "timeMonth": 699,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 3
     }
   },
   {
@@ -190,19 +190,19 @@
     "url": "$WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 801,
-    "timeDay": 848,
-    "timeWeek": 889,
-    "timeMonth": 714,
-    "timeYear": 711,
+    "timeDay": 898,
+    "timeWeek": 895,
+    "timeMonth": 720,
+    "timeYear": 712,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 3
     }
   },
   {
