@@ -13,7 +13,7 @@
     "time": 814,
     "timeDay": 855,
     "timeWeek": 793,
-    "timeMonth": 764,
+    "timeMonth": 756,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2023-10-17": 1104,
@@ -38,7 +38,7 @@
     "time": 464,
     "timeDay": 475,
     "timeWeek": 488,
-    "timeMonth": 461,
+    "timeMonth": 463,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2023-10-27": 1323,
@@ -66,7 +66,7 @@
     "time": 2212,
     "timeDay": 2460,
     "timeWeek": 2216,
-    "timeMonth": 2288,
+    "timeMonth": 2274,
     "timeYear": 2201,
     "dailyMinutesDown": {
       "2023-10-24": 1234,
@@ -91,7 +91,7 @@
     "time": 428,
     "timeDay": 486,
     "timeWeek": 424,
-    "timeMonth": 420,
+    "timeMonth": 418,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2023-10-13": 128
@@ -111,7 +111,7 @@
     "time": 762,
     "timeDay": 924,
     "timeWeek": 926,
-    "timeMonth": 851,
+    "timeMonth": 848,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2023-10-15": 1323,
@@ -133,7 +133,7 @@
     "time": 983,
     "timeDay": 1062,
     "timeWeek": 958,
-    "timeMonth": 996,
+    "timeMonth": 971,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2023-10-15": 1323,
@@ -146,9 +146,9 @@
     "url": "$VEREIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vereinsverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -157,7 +157,9 @@
     "timeWeek": 752,
     "timeMonth": 730,
     "timeYear": 695,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   },
   {
     "name": "Tickets",
@@ -187,9 +189,9 @@
     "url": "$WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -198,16 +200,18 @@
     "timeWeek": 709,
     "timeMonth": 754,
     "timeYear": 713,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   },
   {
     "name": "Newsletter",
     "url": "$NEWSLETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -216,16 +220,18 @@
     "timeWeek": 512,
     "timeMonth": 482,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   },
   {
     "name": "Webmail",
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -234,7 +240,9 @@
     "timeWeek": 798,
     "timeMonth": 670,
     "timeYear": 577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   },
   {
     "name": "SMTP",
