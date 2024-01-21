@@ -5,8 +5,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/sternwarte-ottilien.de.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "uptime": "99.51%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 755,
     "timeYear": 804,
     "dailyMinutesDown": {
+      "2024-01-21": 0,
       "2023-10-17": 1104,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
@@ -31,7 +32,7 @@
     "slug": "mattermost",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.04%",
@@ -41,6 +42,7 @@
     "timeMonth": 448,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2024-01-21": 0,
       "2023-10-27": 1323,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -59,7 +61,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
@@ -69,6 +71,7 @@
     "timeMonth": 2297,
     "timeYear": 2200,
     "dailyMinutesDown": {
+      "2024-01-21": 0,
       "2023-10-24": 1234,
       "2023-10-23": 1440,
       "2023-10-22": 120,
@@ -84,7 +87,7 @@
     "slug": "all-sky",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -94,6 +97,7 @@
     "timeMonth": 425,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2024-01-21": 0,
       "2023-10-13": 128
     }
   },
@@ -104,7 +108,7 @@
     "slug": "wetter",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
@@ -114,6 +118,7 @@
     "timeMonth": 843,
     "timeYear": 779,
     "dailyMinutesDown": {
+      "2024-01-21": 0,
       "2023-10-15": 1323,
       "2023-10-14": 1440,
       "2023-10-13": 245
@@ -124,9 +129,9 @@
     "url": "$INVENTAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inventarverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
@@ -136,6 +141,7 @@
     "timeMonth": 971,
     "timeYear": 915,
     "dailyMinutesDown": {
+      "2024-01-21": 0,
       "2023-10-15": 1323,
       "2023-10-14": 1440,
       "2023-10-13": 245
@@ -146,9 +152,9 @@
     "url": "$VEREIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vereinsverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -157,7 +163,9 @@
     "timeWeek": 734,
     "timeMonth": 738,
     "timeYear": 695,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-21": 0
+    }
   },
   {
     "name": "Tickets",
@@ -187,9 +195,9 @@
     "url": "$WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -198,16 +206,18 @@
     "timeWeek": 723,
     "timeMonth": 751,
     "timeYear": 714,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-21": 0
+    }
   },
   {
     "name": "Newsletter",
     "url": "$NEWSLETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -216,25 +226,29 @@
     "timeWeek": 462,
     "timeMonth": 485,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-21": 0
+    }
   },
   {
     "name": "Webmail",
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
+    "time": 572,
     "timeDay": 546,
     "timeWeek": 763,
     "timeMonth": 678,
     "timeYear": 578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-21": 0
+    }
   },
   {
     "name": "SMTP",
