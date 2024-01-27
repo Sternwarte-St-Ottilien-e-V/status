@@ -34,7 +34,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mattermost",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "57.32%",
     "uptimeMonth": "90.18%",
@@ -206,9 +206,9 @@
     "url": "$WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -217,34 +217,38 @@
     "timeWeek": 976,
     "timeMonth": 821,
     "timeYear": 685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   },
   {
     "name": "Newsletter",
     "url": "$NEWSLETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
+    "time": 487,
     "timeDay": 454,
     "timeWeek": 524,
     "timeMonth": 497,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   },
   {
     "name": "Webmail",
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,7 +257,9 @@
     "timeWeek": 639,
     "timeMonth": 689,
     "timeYear": 569,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   },
   {
     "name": "SMTP",
