@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.69%",
+    "uptimeWeek": "74.71%",
     "uptimeMonth": "80.61%",
     "uptimeYear": "97.30%",
     "time": 820,
@@ -40,7 +40,7 @@
     "status": "up",
     "uptime": "97.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "15.53%",
+    "uptimeWeek": "28.55%",
     "uptimeMonth": "69.98%",
     "uptimeYear": "95.54%",
     "time": 461,
@@ -110,7 +110,7 @@
     "status": "up",
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "15.53%",
+    "uptimeWeek": "28.55%",
     "uptimeMonth": "69.98%",
     "uptimeYear": "97.47%",
     "time": 423,
@@ -140,9 +140,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wetter",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "15.53%",
+    "uptimeWeek": "28.55%",
     "uptimeMonth": "73.22%",
     "uptimeYear": "97.20%",
     "time": 778,
@@ -253,10 +253,10 @@
     "url": "$NEWSLETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
@@ -264,17 +264,19 @@
     "timeWeek": 482,
     "timeMonth": 500,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-10": 1
+    }
   },
   {
     "name": "Webmail",
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
@@ -282,7 +284,9 @@
     "timeWeek": 576,
     "timeMonth": 702,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-10": 1
+    }
   },
   {
     "name": "SMTP",
