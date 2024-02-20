@@ -1,7 +1,7 @@
 url: $ALLSKY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-20T23:00:19.200Z
+status: up
+code: 200
+responseTime: 386
+lastUpdated: 2024-02-20T23:03:21.547Z
 startTime: 2021-10-25T08:25:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
