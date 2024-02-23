@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 832,
     "timeDay": 4727,
@@ -16,7 +16,6 @@
     "timeMonth": 1166,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-02-23": 3,
       "2023-10-17": 1104,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
@@ -30,19 +29,19 @@
     "url": "$CHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.04%",
     "time": 453,
-    "timeDay": 415,
+    "timeDay": 408,
     "timeWeek": 379,
-    "timeMonth": 400,
+    "timeMonth": 399,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2024-02-23": 6,
+      "2024-02-23": 1,
       "2023-10-27": 1323,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -61,8 +60,8 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.41%",
     "time": 2229,
@@ -71,7 +70,6 @@
     "timeMonth": 2486,
     "timeYear": 2131,
     "dailyMinutesDown": {
-      "2024-02-23": 3,
       "2024-02-20": 20,
       "2023-10-24": 1234,
       "2023-10-23": 1440,
@@ -88,9 +86,9 @@
     "slug": "all-sky",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 424,
     "timeDay": 486,
@@ -98,7 +96,6 @@
     "timeMonth": 397,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2024-02-23": 3,
       "2023-10-13": 128
     }
   },
@@ -109,9 +106,9 @@
     "slug": "wetter",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 778,
     "timeDay": 745,
@@ -119,7 +116,6 @@
     "timeMonth": 769,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2024-02-23": 3,
       "2023-10-15": 1323,
       "2023-10-14": 1440,
       "2023-10-13": 245
@@ -132,9 +128,9 @@
     "slug": "inventarverwaltung",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 933,
     "timeDay": 1311,
@@ -142,7 +138,6 @@
     "timeMonth": 967,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2024-02-23": 3,
       "2023-10-15": 1323,
       "2023-10-14": 1440,
       "2023-10-13": 245
@@ -155,18 +150,16 @@
     "slug": "vereinsverwaltung",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 726,
     "timeDay": 1160,
     "timeWeek": 791,
     "timeMonth": 740,
     "timeYear": 696,
-    "dailyMinutesDown": {
-      "2024-02-23": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tickets",
@@ -198,8 +191,8 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 777,
@@ -208,7 +201,6 @@
     "timeMonth": 917,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2024-02-23": 3,
       "2024-02-20": 20
     }
   },
@@ -219,8 +211,8 @@
     "slug": "newsletter",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 483,
@@ -229,7 +221,6 @@
     "timeMonth": 479,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2024-02-23": 3,
       "2024-02-20": 20
     }
   },
@@ -240,37 +231,35 @@
     "slug": "webmail",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
     "timeDay": 826,
     "timeWeek": 590,
     "timeMonth": 604,
     "timeYear": 578,
-    "dailyMinutesDown": {
-      "2024-02-23": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMTP",
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 145,
+    "timeDay": 129,
     "timeWeek": 111,
     "timeMonth": 110,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-02-23": 3
+      "2024-02-23": 18
     }
   },
   {
