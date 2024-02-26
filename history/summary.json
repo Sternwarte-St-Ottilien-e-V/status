@@ -147,9 +147,9 @@
     "url": "$VEREIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vereinsverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -158,7 +158,9 @@
     "timeWeek": 802,
     "timeMonth": 733,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "Tickets",
@@ -188,18 +190,19 @@
     "url": "$WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 777,
+    "time": 776,
     "timeDay": 767,
     "timeWeek": 1317,
     "timeMonth": 895,
     "timeYear": 712,
     "dailyMinutesDown": {
+      "2024-02-26": 0,
       "2024-02-20": 20
     }
   },
