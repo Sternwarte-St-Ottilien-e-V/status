@@ -58,7 +58,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -67,7 +67,7 @@
     "timeDay": 2359,
     "timeWeek": 2037,
     "timeMonth": 2103,
-    "timeYear": 2141,
+    "timeYear": 2147,
     "dailyMinutesDown": {
       "2024-02-20": 20,
       "2023-10-24": 1234,
@@ -208,10 +208,10 @@
     "url": "$NEWSLETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 481,
@@ -220,6 +220,7 @@
     "timeMonth": 452,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2024-03-23": 1,
       "2024-02-20": 20
     }
   },
@@ -228,10 +229,10 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
@@ -239,16 +240,18 @@
     "timeWeek": 546,
     "timeMonth": 539,
     "timeYear": 581,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 1
+    }
   },
   {
     "name": "SMTP",
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -258,6 +261,7 @@
     "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2024-03-23": 0,
       "2024-02-23": 18
     }
   },
