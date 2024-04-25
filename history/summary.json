@@ -188,10 +188,10 @@
     "url": "$WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 720,
@@ -200,6 +200,7 @@
     "timeMonth": 667,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2024-04-25": 1,
       "2024-02-20": 20
     }
   },
@@ -208,10 +209,10 @@
     "url": "$NEWSLETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
@@ -220,6 +221,7 @@
     "timeMonth": 452,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2024-04-25": 1,
       "2024-02-20": 20
     }
   },
@@ -228,10 +230,10 @@
     "url": "$WEBMAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
@@ -239,17 +241,19 @@
     "timeWeek": 576,
     "timeMonth": 551,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-25": 1
+    }
   },
   {
     "name": "SMTP",
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
@@ -258,6 +262,7 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2024-04-25": 1,
       "2024-02-23": 18
     }
   },
@@ -266,9 +271,9 @@
     "url": "$PRIMARY_NS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-primary-master",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -277,6 +282,8 @@
     "timeWeek": 125,
     "timeMonth": 118,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-25": 0
+    }
   }
 ]
