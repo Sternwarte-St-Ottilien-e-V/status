@@ -1,7 +1,7 @@
 url: $NEWSLETTER
-status: down
-code: 500
-responseTime: 774
-lastUpdated: 2024-05-03T21:15:49.049Z
+status: up
+code: 200
+responseTime: 1248
+lastUpdated: 2024-05-03T22:00:07.531Z
 startTime: 2021-10-25T08:25:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
