@@ -1,7 +1,7 @@
 url: $WETTER
-status: up
-code: 200
-responseTime: 911
-lastUpdated: 2024-09-04T23:13:40.673Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-05T16:52:33.791Z
 startTime: 2021-10-25T08:25:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
