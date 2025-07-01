@@ -14,7 +14,7 @@
     "timeDay": 1111,
     "timeWeek": 832,
     "timeMonth": 797,
-    "timeYear": 789,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2025-04-21": 21,
       "2024-08-20": 33
@@ -25,19 +25,19 @@
     "url": "$CHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mattermost",
-    "status": "down",
+    "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 458,
-    "timeDay": 552,
-    "timeWeek": 502,
-    "timeMonth": 479,
+    "timeDay": 555,
+    "timeWeek": 509,
+    "timeMonth": 481,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2025-07-01": 0,
+      "2025-07-01": 3,
       "2025-04-21": 21,
       "2024-08-20": 33
     }
@@ -248,7 +248,7 @@
     "timeMonth": 0,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-07-01": 1321,
+      "2025-07-01": 1324,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
