@@ -25,9 +25,9 @@
     "url": "$CHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +37,7 @@
     "timeMonth": 479,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2025-07-01": 0,
       "2025-04-21": 21,
       "2024-08-20": 33
     }
@@ -56,7 +57,7 @@
     "timeDay": 2667,
     "timeWeek": 2185,
     "timeMonth": 2247,
-    "timeYear": 2260,
+    "timeYear": 2257,
     "dailyMinutesDown": {
       "2025-06-15": 18,
       "2025-04-21": 21,
@@ -93,14 +94,14 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 821,
+    "time": 828,
     "timeDay": 974,
-    "timeWeek": 747,
+    "timeWeek": 769,
     "timeMonth": 791,
-    "timeYear": 823,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2025-06-24": 24,
       "2025-04-21": 21,
@@ -124,7 +125,7 @@
     "timeDay": 1131,
     "timeWeek": 942,
     "timeMonth": 1035,
-    "timeYear": 1048,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2025-04-21": 21,
       "2025-04-19": 33,
@@ -163,7 +164,7 @@
     "timeDay": 896,
     "timeWeek": 720,
     "timeMonth": 805,
-    "timeYear": 806,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2025-04-21": 21,
       "2025-04-19": 27,
@@ -203,7 +204,7 @@
     "timeDay": 804,
     "timeWeek": 729,
     "timeMonth": 803,
-    "timeYear": 786,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2025-04-21": 21,
       "2024-08-20": 28
@@ -224,7 +225,7 @@
     "timeDay": 591,
     "timeWeek": 484,
     "timeMonth": 501,
-    "timeYear": 501,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2025-04-21": 21,
       "2024-08-20": 28
@@ -236,18 +237,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "down",
-    "uptime": "82.63%",
+    "uptime": "82.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "36.13%",
+    "uptimeYear": "35.90%",
     "time": 543,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 523,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-07-01": 139,
+      "2025-07-01": 1321,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
