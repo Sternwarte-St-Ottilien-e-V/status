@@ -111,9 +111,9 @@
     "url": "$INVENTAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inventarverwaltung",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -123,6 +123,7 @@
     "timeMonth": 1019,
     "timeYear": 1033,
     "dailyMinutesDown": {
+      "2025-09-17": 0,
       "2025-07-17": 93,
       "2025-04-21": 21,
       "2025-04-19": 33
@@ -216,7 +217,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "down",
-    "uptime": "78.10%",
+    "uptime": "78.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -227,7 +228,7 @@
     "timeMonth": 0,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2025-09-17": 105,
+      "2025-09-17": 268,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
