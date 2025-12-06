@@ -1,7 +1,7 @@
 url: $VEREIN
-status: up
-code: 200
-responseTime: 633
-lastUpdated: 2025-12-05T23:15:45.735Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-12-06T10:51:58.751Z
 startTime: 2021-10-25T08:25:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
