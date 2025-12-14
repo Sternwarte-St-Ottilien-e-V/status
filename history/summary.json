@@ -92,15 +92,16 @@
     "uptime": "98.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.18%",
-    "uptimeYear": "95.93%",
+    "uptimeMonth": "51.85%",
+    "uptimeYear": "95.91%",
     "time": 1141,
     "timeDay": 409,
     "timeWeek": 439,
     "timeMonth": 651,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2025-12-13": 1426,
+      "2025-12-14": 130,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -129,9 +130,9 @@
     "slug": "inventarverwaltung",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1035,
     "timeDay": 1271,
@@ -139,7 +140,6 @@
     "timeMonth": 1024,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2025-12-13": 2,
       "2025-07-17": 93,
       "2025-04-21": 21,
       "2025-04-19": 33
@@ -152,8 +152,8 @@
     "slug": "vereinsverwaltung",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 800,
@@ -162,7 +162,6 @@
     "timeMonth": 792,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2025-12-13": 2,
       "2025-07-17": 93,
       "2025-04-21": 21,
       "2025-04-19": 27
@@ -193,8 +192,8 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 781,
@@ -203,7 +202,6 @@
     "timeMonth": 784,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2025-12-13": 2,
       "2025-07-17": 93,
       "2025-04-21": 21
     }
@@ -215,8 +213,8 @@
     "slug": "newsletter",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 504,
@@ -225,7 +223,6 @@
     "timeMonth": 518,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2025-12-13": 2,
       "2025-07-17": 93,
       "2025-04-21": 21
     }
@@ -236,7 +233,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "down",
-    "uptime": "73.56%",
+    "uptime": "73.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -247,7 +244,8 @@
     "timeMonth": 0,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2025-12-13": 1426,
+      "2025-12-14": 130,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -556,8 +554,7 @@
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   },
   {
