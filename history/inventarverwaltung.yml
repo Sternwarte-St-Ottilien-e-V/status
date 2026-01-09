@@ -1,7 +1,7 @@
 url: $INVENTAR
-status: down
-code: 500
-responseTime: 756
-lastUpdated: 2026-01-09T01:24:30.114Z
+status: up
+code: 200
+responseTime: 901
+lastUpdated: 2026-01-09T02:03:26.765Z
 startTime: 2021-10-25T08:25:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
