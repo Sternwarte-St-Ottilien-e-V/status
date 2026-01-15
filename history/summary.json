@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mattermost",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -93,7 +93,7 @@
     "uptime": "97.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.61%",
+    "uptimeMonth": "49.26%",
     "uptimeYear": "91.35%",
     "time": 1169,
     "timeDay": 801,
@@ -154,7 +154,7 @@
     "time": 1035,
     "timeDay": 968,
     "timeWeek": 937,
-    "timeMonth": 1121,
+    "timeMonth": 1119,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-01-09": 39,
@@ -191,18 +191,20 @@
     "url": "$TICKETS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1039,
+    "time": 1040,
     "timeDay": 1374,
     "timeWeek": 1064,
     "timeMonth": 1198,
     "timeYear": 1006,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-15": 1
+    }
   },
   {
     "name": "Wiki",
@@ -218,7 +220,7 @@
     "time": 785,
     "timeDay": 985,
     "timeWeek": 848,
-    "timeMonth": 908,
+    "timeMonth": 907,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2025-07-17": 93,
@@ -239,7 +241,7 @@
     "time": 508,
     "timeDay": 535,
     "timeWeek": 489,
-    "timeMonth": 520,
+    "timeMonth": 519,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2025-07-17": 93,
@@ -263,7 +265,7 @@
     "timeMonth": 0,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2026-01-15": 127,
+      "2026-01-15": 413,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
