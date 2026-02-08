@@ -1,7 +1,7 @@
 url: $PRIMARY_NS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-08T23:41:53.424Z
+status: up
+code: 200
+responseTime: 118
+lastUpdated: 2026-02-08T23:43:40.575Z
 startTime: 2021-10-25T08:25:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
