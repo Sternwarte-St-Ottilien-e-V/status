@@ -198,19 +198,19 @@
     "url": "$TICKETS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tickets",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 999,
-    "timeDay": 851,
-    "timeWeek": 1487,
-    "timeMonth": 1132,
-    "timeYear": 1034,
+    "timeDay": 819,
+    "timeWeek": 1420,
+    "timeMonth": 1121,
+    "timeYear": 1033,
     "dailyMinutesDown": {
-      "2026-03-02": 0
+      "2026-03-02": 4
     }
   },
   {
@@ -275,7 +275,7 @@
     "timeMonth": 0,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2026-03-02": 852,
+      "2026-03-02": 856,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
