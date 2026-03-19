@@ -13,7 +13,7 @@
     "time": 813,
     "timeDay": 911,
     "timeWeek": 793,
-    "timeMonth": 864,
+    "timeMonth": 856,
     "timeYear": 822,
     "dailyMinutesDown": {
       "2026-03-03": 18,
@@ -58,7 +58,7 @@
     "time": 2260,
     "timeDay": 2643,
     "timeWeek": 2132,
-    "timeMonth": 2112,
+    "timeMonth": 2103,
     "timeYear": 2255,
     "dailyMinutesDown": {
       "2026-03-03": 17,
@@ -84,7 +84,7 @@
     "time": 463,
     "timeDay": 690,
     "timeWeek": 488,
-    "timeMonth": 480,
+    "timeMonth": 476,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2026-03-03": 17,
@@ -104,9 +104,9 @@
     "uptimeMonth": "97.72%",
     "uptimeYear": "91.16%",
     "time": 1373,
-    "timeDay": 1041,
+    "timeDay": 992,
     "timeWeek": 870,
-    "timeMonth": 859,
+    "timeMonth": 854,
     "timeYear": 1577,
     "dailyMinutesDown": {
       "2026-03-03": 17,
@@ -164,7 +164,7 @@
     "time": 1025,
     "timeDay": 1113,
     "timeWeek": 927,
-    "timeMonth": 968,
+    "timeMonth": 964,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2026-03-03": 16,
@@ -189,7 +189,7 @@
     "time": 799,
     "timeDay": 923,
     "timeWeek": 795,
-    "timeMonth": 765,
+    "timeMonth": 760,
     "timeYear": 806,
     "dailyMinutesDown": {
       "2026-03-03": 16,
@@ -205,18 +205,20 @@
     "url": "$TICKETS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1001,
-    "timeDay": 850,
-    "timeWeek": 920,
-    "timeMonth": 1115,
-    "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "timeDay": 835,
+    "timeWeek": 908,
+    "timeMonth": 1106,
+    "timeYear": 1028,
+    "dailyMinutesDown": {
+      "2026-03-19": 1
+    }
   },
   {
     "name": "Wiki",
@@ -232,7 +234,7 @@
     "time": 787,
     "timeDay": 805,
     "timeWeek": 710,
-    "timeMonth": 755,
+    "timeMonth": 748,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2026-03-03": 16,
@@ -255,7 +257,7 @@
     "time": 511,
     "timeDay": 589,
     "timeWeek": 499,
-    "timeMonth": 520,
+    "timeMonth": 515,
     "timeYear": 514,
     "dailyMinutesDown": {
       "2026-02-20": 979,
@@ -270,7 +272,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "down",
-    "uptime": "69.20%",
+    "uptime": "69.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -281,7 +283,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 166,
+      "2026-03-19": 1339,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -662,7 +664,7 @@
     "time": 128,
     "timeDay": 167,
     "timeWeek": 122,
-    "timeMonth": 128,
+    "timeMonth": 127,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2026-02-20": 977,
@@ -683,7 +685,7 @@
     "time": 128,
     "timeDay": 167,
     "timeWeek": 122,
-    "timeMonth": 129,
+    "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2026-02-20": 976,
