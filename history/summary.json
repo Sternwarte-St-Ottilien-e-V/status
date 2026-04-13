@@ -99,8 +99,8 @@
     "slug": "wetter",
     "status": "up",
     "uptime": "97.87%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "91.15%",
     "time": 2055,
@@ -109,7 +109,6 @@
     "timeMonth": 6884,
     "timeYear": 2335,
     "dailyMinutesDown": {
-      "2026-04-13": 1,
       "2026-04-09": 39,
       "2026-03-03": 17,
       "2026-02-20": 980,
@@ -283,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-13": 187,
+      "2026-04-13": 211,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
