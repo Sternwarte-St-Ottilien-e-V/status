@@ -92,13 +92,13 @@
     "url": "$WETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wetter",
-    "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "97.93%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.15%",
-    "time": 2527,
+    "time": 2529,
     "timeDay": 836,
     "timeWeek": 753,
     "timeMonth": 677,
@@ -144,7 +144,8 @@
       "2026-03-03": 17,
       "2026-04-09": 39,
       "2026-04-13": 22,
-      "2026-04-21": 33
+      "2026-04-21": 33,
+      "2026-05-29": 1
     }
   },
   {
@@ -261,7 +262,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "down",
-    "uptime": "66.27%",
+    "uptime": "66.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -272,7 +273,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-29": 250,
+      "2026-05-29": 986,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
