@@ -1,7 +1,7 @@
 url: $TICKETS
-status: up
-code: 200
-responseTime: 621
-lastUpdated: 2026-06-29T12:48:56.764Z
+status: down
+code: 504
+responseTime: 30352
+lastUpdated: 2026-06-29T12:53:02.689Z
 startTime: 2021-10-25T08:25:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
