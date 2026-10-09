@@ -91,17 +91,17 @@
     "url": "$WETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wetter",
-    "status": "down",
+    "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.22%",
-    "time": 2748,
-    "timeDay": 672,
-    "timeWeek": 670,
-    "timeMonth": 670,
-    "timeYear": 2802,
+    "time": 2790,
+    "timeDay": 12604,
+    "timeWeek": 3653,
+    "timeMonth": 1466,
+    "timeYear": 2849,
     "dailyMinutesDown": {
       "2025-12-30": 1038,
       "2025-12-29": 1440,
@@ -141,7 +141,7 @@
       "2026-04-13": 22,
       "2026-04-21": 33,
       "2026-05-29": 17,
-      "2026-10-09": 1
+      "2026-10-09": 2
     }
   },
   {
@@ -267,7 +267,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-09": 755,
+      "2026-10-09": 757,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
