@@ -4,21 +4,21 @@
     "url": "https://sternwarte-ottilien.de",
     "icon": "https://icons.duckduckgo.com/ip3/sternwarte-ottilien.de.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "83.72%",
-    "uptimeWeek": "97.67%",
+    "uptimeDay": "83.65%",
+    "uptimeWeek": "97.66%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.77%",
-    "time": 847,
-    "timeDay": 1050,
-    "timeWeek": 1012,
-    "timeMonth": 1028,
+    "time": 848,
+    "timeDay": 1127,
+    "timeWeek": 1036,
+    "timeMonth": 1034,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2026-02-20": 981,
       "2026-03-03": 18,
-      "2026-10-21": 234
+      "2026-10-21": 236
     }
   },
   {
@@ -26,21 +26,21 @@
     "url": "$CHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mattermost",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "84.05%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "83.98%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.77%",
     "time": 493,
-    "timeDay": 431,
-    "timeWeek": 468,
-    "timeMonth": 497,
+    "timeDay": 483,
+    "timeWeek": 476,
+    "timeMonth": 498,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2026-02-20": 981,
       "2026-03-03": 17,
-      "2026-10-21": 230
+      "2026-10-21": 231
     }
   },
   {
@@ -275,7 +275,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 1140,
+      "2026-10-21": 1142,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
