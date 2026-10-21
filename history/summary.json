@@ -26,21 +26,21 @@
     "url": "$CHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "83.80%",
-    "uptimeWeek": "97.69%",
+    "uptimeDay": "83.94%",
+    "uptimeWeek": "97.71%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.77%",
     "time": 493,
-    "timeDay": 434,
-    "timeWeek": 458,
-    "timeMonth": 491,
-    "timeYear": 482,
+    "timeDay": 426,
+    "timeWeek": 452,
+    "timeMonth": 488,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2026-02-20": 981,
       "2026-03-03": 17,
-      "2026-10-21": 234
+      "2026-10-21": 232
     }
   },
   {
@@ -275,7 +275,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 1210,
+      "2026-10-21": 1241,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
