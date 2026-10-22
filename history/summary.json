@@ -50,9 +50,9 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "42.41%",
-    "uptimeWeek": "91.77%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "42.30%",
+    "uptimeWeek": "91.76%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "99.60%",
     "time": 2680,
     "timeDay": 8661,
@@ -66,7 +66,7 @@
       "2026-08-13": 15,
       "2026-09-19": 249,
       "2026-10-21": 293,
-      "2026-10-22": 537
+      "2026-10-22": 539
     }
   },
   {
@@ -74,22 +74,22 @@
     "url": "$ALLSKY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "all-sky",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "83.81%",
-    "uptimeWeek": "97.69%",
+    "uptimeDay": "83.74%",
+    "uptimeWeek": "97.68%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.77%",
     "time": 465,
-    "timeDay": 590,
-    "timeWeek": 525,
-    "timeMonth": 500,
+    "timeDay": 508,
+    "timeWeek": 505,
+    "timeMonth": 495,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2026-02-20": 980,
       "2026-03-03": 17,
       "2026-10-21": 219,
-      "2026-10-22": 14
+      "2026-10-22": 15
     }
   },
   {
@@ -97,17 +97,17 @@
     "url": "$WETTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wetter",
-    "status": "down",
+    "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "84.49%",
-    "uptimeWeek": "97.78%",
+    "uptimeDay": "84.41%",
+    "uptimeWeek": "97.77%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "91.18%",
     "time": 2783,
-    "timeDay": 708,
-    "timeWeek": 681,
-    "timeMonth": 1410,
-    "timeYear": 2841,
+    "timeDay": 677,
+    "timeWeek": 673,
+    "timeMonth": 1386,
+    "timeYear": 2836,
     "dailyMinutesDown": {
       "2025-12-30": 1038,
       "2025-12-29": 1440,
@@ -148,7 +148,7 @@
       "2026-04-21": 33,
       "2026-05-29": 17,
       "2026-10-21": 214,
-      "2026-10-22": 9
+      "2026-10-22": 10
     }
   },
   {
@@ -156,23 +156,23 @@
     "url": "$INVENTAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inventarverwaltung",
-    "status": "down",
+    "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "85.16%",
-    "uptimeWeek": "97.88%",
+    "uptimeDay": "85.08%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.76%",
     "time": 1193,
-    "timeDay": 1718,
-    "timeWeek": 1810,
-    "timeMonth": 1721,
+    "timeDay": 1554,
+    "timeWeek": 1745,
+    "timeMonth": 1705,
     "timeYear": 1233,
     "dailyMinutesDown": {
       "2026-01-09": 39,
       "2026-02-20": 980,
       "2026-03-03": 16,
       "2026-10-21": 209,
-      "2026-10-22": 4
+      "2026-10-22": 5
     }
   },
   {
@@ -279,7 +279,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 537,
+      "2026-10-22": 539,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
