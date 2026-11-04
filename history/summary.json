@@ -48,17 +48,17 @@
     "url": "$NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "96.39%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "99.45%",
-    "time": 2716,
-    "timeDay": 2910,
-    "timeWeek": 3260,
-    "timeMonth": 3995,
-    "timeYear": 2863,
+    "time": 2719,
+    "timeDay": 3030,
+    "timeWeek": 3283,
+    "timeMonth": 3983,
+    "timeYear": 2865,
     "dailyMinutesDown": {
       "2026-01-09": 36,
       "2026-02-20": 980,
@@ -67,7 +67,7 @@
       "2026-09-19": 249,
       "2026-10-21": 293,
       "2026-10-22": 1263,
-      "2026-11-04": 25
+      "2026-11-04": 45
     }
   },
   {
@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-04": 1301,
+      "2026-11-04": 1321,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
