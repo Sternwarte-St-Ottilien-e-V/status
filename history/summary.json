@@ -58,7 +58,7 @@
     "timeDay": 2915,
     "timeWeek": 3403,
     "timeMonth": 4131,
-    "timeYear": 2861,
+    "timeYear": 2863,
     "dailyMinutesDown": {
       "2026-01-09": 36,
       "2026-02-20": 980,
@@ -107,7 +107,7 @@
     "timeDay": 535,
     "timeWeek": 563,
     "timeMonth": 1356,
-    "timeYear": 2830,
+    "timeYear": 2834,
     "dailyMinutesDown": {
       "2025-12-30": 1038,
       "2025-12-29": 1440,
@@ -165,7 +165,7 @@
     "timeDay": 1254,
     "timeWeek": 1475,
     "timeMonth": 1666,
-    "timeYear": 1248,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2026-01-09": 39,
       "2026-02-20": 980,
@@ -188,7 +188,7 @@
     "timeDay": 981,
     "timeWeek": 1091,
     "timeMonth": 1287,
-    "timeYear": 958,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2026-01-09": 36,
       "2026-02-20": 979,
@@ -211,7 +211,7 @@
     "timeDay": 705,
     "timeWeek": 913,
     "timeMonth": 1036,
-    "timeYear": 1503,
+    "timeYear": 1504,
     "dailyMinutesDown": {
       "2026-06-29": 31
     }
@@ -253,7 +253,7 @@
     "timeDay": 486,
     "timeWeek": 507,
     "timeMonth": 584,
-    "timeYear": 519,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2026-02-13": 4,
       "2026-02-20": 979,
@@ -277,7 +277,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-03": 1393,
+      "2026-11-04": 12,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -640,8 +641,7 @@
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
-      "2025-11-05": 1440,
-      "2025-11-04": 1440
+      "2025-11-05": 1440
     }
   },
   {
@@ -649,9 +649,9 @@
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "99.90%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.78%",
@@ -664,7 +664,7 @@
       "2026-02-13": 2,
       "2026-02-20": 977,
       "2026-10-21": 186,
-      "2026-11-03": 1
+      "2026-11-04": 1
     }
   },
   {
