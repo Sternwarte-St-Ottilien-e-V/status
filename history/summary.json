@@ -12,7 +12,7 @@
     "uptimeYear": "99.77%",
     "time": 849,
     "timeDay": 1105,
-    "timeWeek": 888,
+    "timeWeek": 867,
     "timeMonth": 1020,
     "timeYear": 855,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.77%",
     "time": 494,
     "timeDay": 664,
-    "timeWeek": 536,
+    "timeWeek": 538,
     "timeMonth": 488,
     "timeYear": 482,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
     "uptimeYear": "99.45%",
     "time": 2719,
     "timeDay": 3030,
-    "timeWeek": 3283,
+    "timeWeek": 3190,
     "timeMonth": 3971,
     "timeYear": 2865,
     "dailyMinutesDown": {
@@ -83,7 +83,7 @@
     "uptimeYear": "99.77%",
     "time": 467,
     "timeDay": 563,
-    "timeWeek": 496,
+    "timeWeek": 494,
     "timeMonth": 510,
     "timeYear": 466,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeYear": "91.18%",
     "time": 2778,
     "timeDay": 720,
-    "timeWeek": 604,
+    "timeWeek": 591,
     "timeMonth": 1373,
     "timeYear": 2834,
     "dailyMinutesDown": {
@@ -164,7 +164,7 @@
     "uptimeYear": "99.76%",
     "time": 1203,
     "timeDay": 1649,
-    "timeWeek": 1527,
+    "timeWeek": 1497,
     "timeMonth": 1641,
     "timeYear": 1250,
     "dailyMinutesDown": {
@@ -187,7 +187,7 @@
     "uptimeYear": "99.76%",
     "time": 925,
     "timeDay": 1209,
-    "timeWeek": 1129,
+    "timeWeek": 1111,
     "timeMonth": 1264,
     "timeYear": 959,
     "dailyMinutesDown": {
@@ -210,7 +210,7 @@
     "uptimeYear": "99.99%",
     "time": 1400,
     "timeDay": 1121,
-    "timeWeek": 985,
+    "timeWeek": 966,
     "timeMonth": 1048,
     "timeYear": 1504,
     "dailyMinutesDown": {
@@ -230,7 +230,7 @@
     "uptimeYear": "99.77%",
     "time": 804,
     "timeDay": 859,
-    "timeWeek": 780,
+    "timeWeek": 770,
     "timeMonth": 931,
     "timeYear": 807,
     "dailyMinutesDown": {
@@ -252,7 +252,7 @@
     "uptimeYear": "99.78%",
     "time": 517,
     "timeDay": 621,
-    "timeWeek": 513,
+    "timeWeek": 505,
     "timeMonth": 582,
     "timeYear": 520,
     "dailyMinutesDown": {
@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-05": 115,
+      "2026-11-05": 164,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -650,9 +650,9 @@
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "99.90%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.78%",
@@ -681,7 +681,7 @@
     "uptimeYear": "99.78%",
     "time": 129,
     "timeDay": 139,
-    "timeWeek": 132,
+    "timeWeek": 127,
     "timeMonth": 133,
     "timeYear": 129,
     "dailyMinutesDown": {
