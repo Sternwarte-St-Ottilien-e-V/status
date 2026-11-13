@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-13": 1350,
+      "2026-11-13": 1351,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -650,22 +650,22 @@
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.78%",
     "time": 129,
-    "timeDay": 124,
-    "timeWeek": 124,
+    "timeDay": 126,
+    "timeWeek": 125,
     "timeMonth": 131,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2026-02-13": 2,
       "2026-02-20": 977,
       "2026-10-21": 186,
-      "2026-11-13": 3
+      "2026-11-13": 4
     }
   },
   {
