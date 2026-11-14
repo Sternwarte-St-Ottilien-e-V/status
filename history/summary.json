@@ -14,7 +14,7 @@
     "timeDay": 1023,
     "timeWeek": 891,
     "timeMonth": 1019,
-    "timeYear": 857,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2026-02-20": 981,
       "2026-03-03": 18,
@@ -58,7 +58,7 @@
     "timeDay": 4578,
     "timeWeek": 3875,
     "timeMonth": 3965,
-    "timeYear": 2907,
+    "timeYear": 2909,
     "dailyMinutesDown": {
       "2026-01-09": 36,
       "2026-02-20": 980,
@@ -108,7 +108,7 @@
     "timeDay": 697,
     "timeWeek": 554,
     "timeMonth": 617,
-    "timeYear": 2825,
+    "timeYear": 2830,
     "dailyMinutesDown": {
       "2025-12-30": 1038,
       "2025-12-29": 1440,
@@ -166,7 +166,7 @@
     "timeDay": 2087,
     "timeWeek": 1721,
     "timeMonth": 1617,
-    "timeYear": 1266,
+    "timeYear": 1267,
     "dailyMinutesDown": {
       "2026-01-09": 39,
       "2026-02-20": 980,
@@ -212,7 +212,7 @@
     "timeDay": 1090,
     "timeWeek": 967,
     "timeMonth": 1068,
-    "timeYear": 1503,
+    "timeYear": 1504,
     "dailyMinutesDown": {
       "2026-06-29": 31
     }
@@ -267,7 +267,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "down",
-    "uptime": "60.21%",
+    "uptime": "60.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -278,7 +278,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-13": 1351,
+      "2026-11-14": 17,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -641,8 +642,7 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-15": 1440
     }
   },
   {
@@ -650,22 +650,23 @@
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.78%",
     "time": 129,
-    "timeDay": 126,
+    "timeDay": 129,
     "timeWeek": 125,
     "timeMonth": 131,
-    "timeYear": 129,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2026-02-13": 2,
       "2026-02-20": 977,
       "2026-10-21": 186,
-      "2026-11-13": 4
+      "2026-11-13": 2,
+      "2026-11-14": 1
     }
   },
   {
