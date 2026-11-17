@@ -58,7 +58,7 @@
     "timeDay": 0,
     "timeWeek": 3812,
     "timeMonth": 3952,
-    "timeYear": 2921,
+    "timeYear": 2923,
     "dailyMinutesDown": {
       "2026-01-09": 36,
       "2026-02-20": 980,
@@ -108,7 +108,7 @@
     "timeDay": 0,
     "timeWeek": 574,
     "timeMonth": 611,
-    "timeYear": 2827,
+    "timeYear": 2832,
     "dailyMinutesDown": {
       "2025-12-30": 1038,
       "2025-12-29": 1440,
@@ -166,7 +166,7 @@
     "timeDay": 0,
     "timeWeek": 1628,
     "timeMonth": 1597,
-    "timeYear": 1270,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2026-01-09": 39,
       "2026-02-20": 980,
@@ -189,7 +189,7 @@
     "timeDay": 0,
     "timeWeek": 1184,
     "timeMonth": 1219,
-    "timeYear": 973,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2026-01-09": 36,
       "2026-02-20": 979,
@@ -212,7 +212,7 @@
     "timeDay": 0,
     "timeWeek": 1020,
     "timeMonth": 1080,
-    "timeYear": 1503,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2026-06-29": 31
     }
@@ -267,7 +267,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail",
     "status": "down",
-    "uptime": "60.08%",
+    "uptime": "60.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-17": 1369,
+      "2026-11-17": 1434,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -650,14 +650,14 @@
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.77%",
     "time": 129,
-    "timeDay": 134,
+    "timeDay": 133,
     "timeWeek": 129,
     "timeMonth": 130,
     "timeYear": 130,
@@ -668,7 +668,7 @@
       "2026-11-13": 2,
       "2026-11-15": 6,
       "2026-11-16": 23,
-      "2026-11-17": 12
+      "2026-11-17": 2
     }
   },
   {
