@@ -1,7 +1,7 @@
 url: $SMTP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-19T19:16:47.172Z
+status: up
+code: 200
+responseTime: 131
+lastUpdated: 2026-11-19T19:18:25.323Z
 startTime: 2021-10-25T08:25:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
