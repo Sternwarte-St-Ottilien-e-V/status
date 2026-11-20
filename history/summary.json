@@ -35,7 +35,7 @@
     "time": 513,
     "timeDay": 1142,
     "timeWeek": 1349,
-    "timeMonth": 780,
+    "timeMonth": 788,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2026-02-20": 981,
@@ -57,7 +57,7 @@
     "time": 2755,
     "timeDay": 3551,
     "timeWeek": 3914,
-    "timeMonth": 3945,
+    "timeMonth": 3930,
     "timeYear": 2931,
     "dailyMinutesDown": {
       "2026-01-09": 36,
@@ -107,7 +107,7 @@
     "time": 2772,
     "timeDay": 525,
     "timeWeek": 603,
-    "timeMonth": 606,
+    "timeMonth": 604,
     "timeYear": 2830,
     "dailyMinutesDown": {
       "2025-12-30": 1038,
@@ -165,7 +165,7 @@
     "time": 1216,
     "timeDay": 1567,
     "timeWeek": 1642,
-    "timeMonth": 1590,
+    "timeMonth": 1580,
     "timeYear": 1274,
     "dailyMinutesDown": {
       "2026-01-09": 39,
@@ -188,7 +188,7 @@
     "time": 936,
     "timeDay": 1093,
     "timeWeek": 1197,
-    "timeMonth": 1213,
+    "timeMonth": 1204,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2026-01-09": 36,
@@ -211,7 +211,7 @@
     "time": 1403,
     "timeDay": 966,
     "timeWeek": 1024,
-    "timeMonth": 1089,
+    "timeMonth": 1099,
     "timeYear": 1505,
     "dailyMinutesDown": {
       "2026-06-29": 31
@@ -231,7 +231,7 @@
     "time": 803,
     "timeDay": 767,
     "timeWeek": 796,
-    "timeMonth": 845,
+    "timeMonth": 841,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2026-02-20": 979,
@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 52,
+      "2026-11-20": 128,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -650,14 +650,14 @@
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.77%",
     "time": 129,
-    "timeDay": 130,
+    "timeDay": 129,
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
@@ -669,7 +669,7 @@
       "2026-11-15": 6,
       "2026-11-16": 23,
       "2026-11-17": 1,
-      "2026-11-20": 2
+      "2026-11-20": 1
     }
   },
   {
@@ -686,7 +686,7 @@
     "time": 129,
     "timeDay": 122,
     "timeWeek": 139,
-    "timeMonth": 134,
+    "timeMonth": 133,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2026-02-13": 1,
