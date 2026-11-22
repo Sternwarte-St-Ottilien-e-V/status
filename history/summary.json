@@ -36,7 +36,7 @@
     "timeDay": 0,
     "timeWeek": 1456,
     "timeMonth": 905,
-    "timeYear": 515,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2026-02-20": 981,
       "2026-03-03": 17,
@@ -108,7 +108,7 @@
     "timeDay": 0,
     "timeWeek": 642,
     "timeMonth": 598,
-    "timeYear": 2830,
+    "timeYear": 2834,
     "dailyMinutesDown": {
       "2025-12-30": 1038,
       "2025-12-29": 1440,
@@ -212,7 +212,7 @@
     "timeDay": 0,
     "timeWeek": 1072,
     "timeMonth": 963,
-    "timeYear": 1505,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2026-06-29": 31
     }
@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 1357,
+      "2026-11-22": 1403,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -650,9 +650,9 @@
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "98.88%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.77%",
