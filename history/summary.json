@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-25": 140,
+      "2026-11-25": 157,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -652,12 +652,12 @@
     "slug": "smtp",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.76%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.77%",
     "time": 130,
-    "timeDay": 129,
+    "timeDay": 130,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 130,
@@ -671,7 +671,7 @@
       "2026-11-17": 1,
       "2026-11-22": 16,
       "2026-11-24": 16,
-      "2026-11-25": 11
+      "2026-11-25": 2
     }
   },
   {
