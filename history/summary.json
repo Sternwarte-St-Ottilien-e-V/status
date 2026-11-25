@@ -13,7 +13,7 @@
     "time": 851,
     "timeDay": 0,
     "timeWeek": 982,
-    "timeMonth": 917,
+    "timeMonth": 910,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2026-02-20": 981,
@@ -35,7 +35,7 @@
     "time": 518,
     "timeDay": 0,
     "timeWeek": 1309,
-    "timeMonth": 954,
+    "timeMonth": 962,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2026-02-20": 981,
@@ -57,7 +57,7 @@
     "time": 2765,
     "timeDay": 0,
     "timeWeek": 4070,
-    "timeMonth": 3686,
+    "timeMonth": 3672,
     "timeYear": 2957,
     "dailyMinutesDown": {
       "2026-01-09": 36,
@@ -84,7 +84,7 @@
     "time": 466,
     "timeDay": 0,
     "timeWeek": 533,
-    "timeMonth": 505,
+    "timeMonth": 497,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2026-02-20": 980,
@@ -107,7 +107,7 @@
     "time": 2772,
     "timeDay": 0,
     "timeWeek": 597,
-    "timeMonth": 599,
+    "timeMonth": 595,
     "timeYear": 2838,
     "dailyMinutesDown": {
       "2025-12-30": 1038,
@@ -165,7 +165,7 @@
     "time": 1221,
     "timeDay": 0,
     "timeWeek": 1690,
-    "timeMonth": 1617,
+    "timeMonth": 1615,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2026-01-09": 39,
@@ -188,7 +188,7 @@
     "time": 938,
     "timeDay": 0,
     "timeWeek": 1213,
-    "timeMonth": 1200,
+    "timeMonth": 1197,
     "timeYear": 979,
     "dailyMinutesDown": {
       "2026-01-09": 36,
@@ -211,7 +211,7 @@
     "time": 1403,
     "timeDay": 0,
     "timeWeek": 928,
-    "timeMonth": 970,
+    "timeMonth": 973,
     "timeYear": 1506,
     "dailyMinutesDown": {
       "2026-06-29": 31
@@ -231,7 +231,7 @@
     "time": 804,
     "timeDay": 0,
     "timeWeek": 837,
-    "timeMonth": 827,
+    "timeMonth": 821,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2026-02-20": 979,
@@ -253,7 +253,7 @@
     "time": 517,
     "timeDay": 0,
     "timeWeek": 575,
-    "timeMonth": 561,
+    "timeMonth": 558,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2026-02-13": 4,
@@ -278,7 +278,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 1433,
+      "2026-11-25": 47,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -641,8 +642,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -650,10 +650,10 @@
     "url": "$SMTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.77%",
     "time": 130,
@@ -670,7 +670,8 @@
       "2026-11-16": 23,
       "2026-11-17": 1,
       "2026-11-22": 16,
-      "2026-11-24": 17
+      "2026-11-24": 16,
+      "2026-11-25": 1
     }
   },
   {
